@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Data Scientist
 -----------------------
 
-I’m a data enthusiast based in Bangalore, passionate about uncovering insights through data and transforming them into meaningful solutions. My journey into tech began with a curiosity for how data shapes decisions — now, I’m building skills across analytics, machine learning, and visualization to turn that curiosity into impact.
+I’m a data enthusiast based in Bangalore, passionate about uncovering insights through data and transforming them into meaningful solutions. My journey into tech and data began with a curiosity for how data shapes decisions — now, I’m building skills across analytics, machine learning, and visualization to turn that curiosity into impact.
 
-* 🌍  I'm based in Bangalore
-* ✉️  You can contact me at [sariashaurya09@gmail.com](mailto:sariashaurya09@gmail.com)
+* 🌍  I'm based in Bangalore, India.
+* ✉️  You can contact me at [sariashaurya09@gmail.com](mailto:sariashaurya09@gmail.com).
 * 🧠  I'm currently learning Advanced data science frameworks and machine learning techniques to enhance my analytical and predictive modeling skills.
 * 👥  I'm looking to collaborate on Interesting projects involving data analysis, predictive modeling, or visualization.
 
