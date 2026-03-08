@@ -1,5 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Shaurya Saria
-======================================================================================================================================
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=5010&pause=1000&color=2490F7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=HI+MY+NAME+IS+SHAURYA+SARIA)](https://git.io/typing-svg)
 
 Aspiring Data Scientist
 -----------------------
@@ -7,6 +6,10 @@ Aspiring Data Scientist
 I’m a data enthusiast based in Bangalore, passionate about uncovering insights and transforming them into meaningful solutions. My journey is fueled by a curiosity for how data shapes global decisions—now, I’m building a high-performance toolkit across analytics, machine learning, and predictive modeling.
 
 ---
+
+<td>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF"/>
+</td>
 
 * 🌍  I'm based in Bangalore, India.
 * ✉️  You can contact me at [sariashaurya09@gmail.com](mailto:sariashaurya09@gmail.com).
