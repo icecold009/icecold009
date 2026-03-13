@@ -65,19 +65,11 @@ I’m a data enthusiast based in Bangalore, passionate about uncovering insights
     </picture>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM" target="_blank" rel="noreferrer">
+  <a href="https://www.instagram.com/shaurya._.saria/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="42" height="42" alt="Instagram" title="Instagram" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.twitter.com/YOUR_TWITTER" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="42" height="42" alt="Twitter" title="Twitter" />
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/shaurya-saria009" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="42" height="42" alt="LinkedIn" title="LinkedIn" />
   </a>
   &nbsp;&nbsp;
