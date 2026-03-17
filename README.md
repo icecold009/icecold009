@@ -73,6 +73,4 @@ I’m a data enthusiast based in Bangalore, passionate about uncovering insights
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="42" height="42" alt="LinkedIn" title="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://discord.com/users/YOUR_DISCORD" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="42" height="42" alt="Discord" title="Discord" />
-  </a>
+
