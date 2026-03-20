@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=5010&pause=1000&color=2490F7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=HI+MY+NAME+IS+SHAURYA+SARIA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=5010&pause=1000&color=38BDF8&background=1E293B&center=true&vCenter=true&width=435&lines=HI+MY+NAME+IS+SHAURYA+SARIA)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;Machine+Learning+%7C+Predictive+Modeling;Turning+Raw+Data+into+Actionable+Insights+%F0%9F%9A%80;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=CCD6F6&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;Machine+Learning+%7C+Predictive+Modeling;Turning+Raw+Data+into+Actionable+Insights+%F0%9F%9A%80;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
 <a href="https://github.com/icecold009" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-icecold009-181717?style=flat-square&logo=github" />
