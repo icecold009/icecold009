@@ -53,7 +53,7 @@ I’m a data enthusiast based in Bangalore, passionate about uncovering insights
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2490F7&center=true&vCenter=true&width=500&lines=Let's+connect+%F0%9F%91%8B;Always+open+to+new+opportunities!;Drop+me+a+message+anytime+%F0%9F%93%A9;Find+me+across+all+platforms+below+%E2%AC%87%EF%B8%8F" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Let's+connect+%F0%9F%91%8B;Always+open+to+new+opportunities!;Drop+me+a+message+anytime+%F0%9F%93%A9;Find+me+across+all+platforms+below+%E2%AC%87%EF%B8%8F" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
