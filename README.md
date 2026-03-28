@@ -16,7 +16,7 @@
 Aspiring Data Scientist
 -----------------------
 
-I’m a data enthusiast based in Bangalore, passionate about uncovering insights and transforming them into meaningful solutions. My journey is fueled by a curiosity for how data shapes global decisions, now, I’m building a high-performance toolkit across analytics, machine learning, and predictive modeling.
+I’m a data enthusiast based in Bangalore, passionate about uncovering insights and transforming them into meaningful solutions. My journey is fueled by a curiosity for how data shapes global decisions. Currently, I’m building a high-performance toolkit across analytics, machine learning, and predictive modeling.
 
 * 🎓 High school student, studying A-levels
 * 🌍 Based in Bangalore, India
