@@ -28,7 +28,7 @@ I’m a data enthusiast based in Bangalore, passionate about uncovering insights
 👨‍💻 Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,c,cpp,html,css,java&perline=7" />
+    <img src="https://skillicons.dev/icons?i=python,r,c,html,css,java&perline=7" />
   </a>
 </p>
 
