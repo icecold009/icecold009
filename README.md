@@ -23,7 +23,7 @@ I’m a data enthusiast based in Bangalore, passionate about uncovering insights
 * 🧠 Currently expanding my knowledge in Advanced ML & Data Science frameworks
 * 🤝 Open to collaborate on data analysis, predictive modeling & visualization
 * 🎯 Goal: Building a high-performance data science toolkit
-* ⚡ Driven by curiosity about how data shapes decisions
+* ⚡ Driven by curiosity about how data shapes decision making
 
 👨‍💻 Programming Languages
 <p align="center">
