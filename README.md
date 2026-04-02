@@ -16,7 +16,7 @@
 Aspiring Data Scientist
 -----------------------
 
-I’m a data enthusiast based in Bangalore, passionate about uncovering insights and transforming them into meaningful solutions. My journey is fueled by a curiosity for how data shapes global decisions. Currently, I’m building a high-performance toolkit across analytics, machine learning, and predictive modeling.
+I'm a data enthusiast based in Bangalore, passionate about uncovering insights and transforming them into meaningful solutions. My journey is fueled by a curiosity for how data shapes global decisions. Currently, I'm building a high-performance toolkit across analytics, machine learning, and predictive modeling.
 
 * 🎓 High school student, studying A-levels
 * 🌍 Based in Bangalore, India
@@ -24,6 +24,18 @@ I’m a data enthusiast based in Bangalore, passionate about uncovering insights
 * 🤝 Open to collaborate on data analysis, predictive modeling & visualization
 * 🎯 Goal: Building a high-performance data science toolkit
 * ⚡ Driven by curiosity about how data shapes decision making
+
+### Projects
+ 
+**[🎬 Movie & TV Tracker](https://github.com/icecold009/movie-tracker)**
+A personal web app to track movies and TV shows. Auto-fetches cover art from the TMDB API, supports Watched / Want to Watch status, and a colour-coded 1–10 rating bar. Password-protected admin login with public read-only view. Hosted on Render.
+`Python` `Flask` `PostgreSQL` `TMDB API` `Render`
+ 
+**[📖 TIL — Today I Learned](https://github.com/icecold009/til)**
+A running collection of short, well-structured notes on things I learn daily. 30+ entries across Computer Science, System Design, Networking, Databases, Machine Learning, OS Concurrency, and more.
+`Markdown` `Computer Science` `System Design` `Networking`
+
+---
 
 👨‍💻 Programming Languages
 <p align="center">
