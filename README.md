@@ -35,6 +35,13 @@ A personal web app to track movies and TV shows. Auto-fetches cover art from the
 A running collection of short, well-structured notes on things I learn daily. 30+ entries across Computer Science, System Design, Networking, Databases, Machine Learning, OS Concurrency, and more.
 `Markdown` `Computer Science` `System Design` `Networking`
 
+### Currently Building
+ 
+| Project | Stack | Status |
+|---|---|---|
+| 🎵 DIY Shazam | Python · ACRCloud · scipy.fft | In Progress |
+| 📚 CAIE Past Paper Topic Predictor | Python · Streamlit · pdfplumber · pandas | In Progress |
+
 ---
 
 👨‍💻 Programming Languages
