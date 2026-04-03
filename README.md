@@ -25,7 +25,7 @@ I'm a data enthusiast based in Bangalore, passionate about uncovering insights a
 * 🎯 Goal: Building a high-performance data science toolkit
 * ⚡ Driven by curiosity about how data shapes decision making
 
-### Projects
+### Projects Completed
  
 **[🎬 Movie & TV Tracker](https://github.com/icecold009/movie-tracker)**
 A personal web app to track movies and TV shows. Auto-fetches cover art from the TMDB API, supports Watched / Want to Watch status, and a colour-coded 1–10 rating bar. Password-protected admin login with public read-only view. Hosted on Render.
