@@ -42,8 +42,6 @@ A running collection of short, well-structured notes on things I learn daily. 30
 | 🎵 DIY Shazam | Python · ACRCloud · scipy.fft | In Progress |
 | 📚 CAIE Past Paper Topic Predictor | Python · Streamlit · pdfplumber · pandas | In Progress |
 
----
-
 👨‍💻 Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
