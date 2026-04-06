@@ -28,7 +28,7 @@ A 17-year old data enthusiast based in Bangalore, passionate about uncovering in
 ### Projects Completed
  
 **[🎬 Movie & TV Tracker](https://github.com/icecold009/movie-tracker)**
-A personal web app to track movies and TV shows. Auto-fetches cover art from the TMDB API, supports Watched / Want to Watch status, and a colour-coded 1–10 rating bar. Password-protected admin login with public read-only view. Hosted on Render.
+A personal web app to track movies and TV shows. Auto-fetches cover art from the TMDB API, supports Watched / Want to Watch status, and a colour-coded 1 through 10 rating bar. Password-protected admin login with public read-only view. Hosted on Render.
 `Python` `Flask` `PostgreSQL` `TMDB API` `Render`
  
 **[📖 TIL — Today I Learned](https://github.com/icecold009/til)**
@@ -39,8 +39,8 @@ A running collection of short, well-structured notes on things I learn daily. 30
  
 | Project | Stack | Status |
 |---|---|---|
-| 🎵 DIY Shazam | Python · ACRCloud · scipy.fft | In Progress |
-| 📚 CAIE Past Paper Topic Predictor | Python · Streamlit · pdfplumber · pandas | In Progress |
+| 🎵 Local Shazam | Python · ACRCloud · scipy.fft | In Progress |
+| 📚 CAIE Past Paper Predictor | Python · Streamlit · pdfplumber · pandas | In Progress |
 
 👨‍💻 Programming Languages
 <p align="center">
