@@ -32,8 +32,8 @@ A personal web app to track movies and TV shows. Auto-fetches cover art from the
 `Python` `Flask` `PostgreSQL` `TMDB API` `Render` `SupaBase`
  
 **[📖 TIL — Today I Learned Repository](https://github.com/icecold009/til)**
-A running collection of short, well-structured notes on things I learn daily. 30+ entries across Computer Science, System Design, Networking, Databases, Machine Learning, OS Concurrency, and more.
-`Markdown` `Computer Science` `System Design` `Networking`
+A running collection of medium to short, well-structured notes on things I learn daily. Include diagrams. 30+ entries across Computer Science, System Design, Networking, Databases, Machine Learning, OS Concurrency, and more.
+`Markdown` `Computer Science` `System Design` `Networking` `Security` `OS concurrency` `Dev workflow`
 
 ### Currently Building
  
