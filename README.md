@@ -79,11 +79,7 @@ A running collection of medium- to short-form, well-structured notes on things I
 
 <p align="center">
   <a href="https://github.com/icecold009" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="42" height="42" alt="GitHub" title="GitHub" />
-    </picture>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="42" height="42" alt="GitHub" title="GitHub" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/shaurya._.saria/" target="_blank" rel="noreferrer">
@@ -94,4 +90,5 @@ A running collection of medium- to short-form, well-structured notes on things I
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="42" height="42" alt="LinkedIn" title="LinkedIn" />
   </a>
   &nbsp;&nbsp;
+</p>
 
