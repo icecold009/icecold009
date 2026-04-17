@@ -13,62 +13,65 @@
 
 </div>
 
-Aspiring Data Scientist
------------------------
+## About Me
 
-A 17-year old data enthusiast based in Bangalore, passionate about uncovering insights and transforming them into meaningful solutions. My journey is fueled by a curiosity for how data shapes global decisions. Currently, I'm building a high-performance toolkit across analytics, machine learning, and predictive modeling.
+A 17-year-old data enthusiast based in Bangalore, passionate about uncovering insights and turning them into meaningful solutions. My curiosity about how data shapes decisions drives my work, and I’m currently building a toolkit across analytics, machine learning, and predictive modeling.
 
-* 🎓 High school student, currently studying my A-levels
+* 🎓 High school student currently studying A-levels
 * 🌍 Based in Bangalore, India
-* 🧠 Currently expanding my knowledge in Advanced ML & Data Science frameworks
+* 🧠 Expanding my knowledge of advanced ML and data science frameworks
 * 🤝 Open to collaborate on data analysis, predictive modeling & visualization
-* 🎯 Goal: Building a high-performance data science toolkit
-* ⚡ Driven by curiosity about how data shapes decision making
+* 🎯 Goal: build a high-performance data science toolkit
+* ⚡ Driven by curiosity about how data shapes decision-making
 
-### Projects Completed
+## Projects Completed
  
 **[🎬 Movie & TV Tracker Website](https://github.com/icecold009/movie-tracker)**
-A personal web app to track movies and TV shows. Auto-fetches cover art from the TMDB API, supports Watched / Want to Watch status, and a colour-coded 1 through 10 rating bar. Password-protected admin login with public read-only view. Hosted on Render.
-`Python` `Flask` `PostgreSQL` `TMDB API` `Render` `SupaBase`
+A personal web app to track movies and TV shows. It auto-fetches cover art from the TMDB API, supports Watched / Want to Watch status, and includes a color-coded 1-10 rating bar. It also has a password-protected admin login with a public read-only view. Hosted on Render.
+`Python` `Flask` `PostgreSQL` `TMDB API` `Render` `Supabase`
  
 **[📖 TIL — Today I Learned Repository](https://github.com/icecold009/til)**
-A running collection of medium to short, well-structured notes on things I learn daily. Include diagrams. 30+ entries across Computer Science, System Design, Networking, Databases, Machine Learning, OS Concurrency, and more.
-`Markdown` `Computer Science` `System Design` `Networking` `Security` `OS concurrency` `Dev workflow`
+A running collection of medium- to short-form, well-structured notes on things I learn daily. Includes diagrams. 30+ entries across computer science, system design, networking, databases, machine learning, OS concurrency, and more.
+`Markdown` `Computer Science` `System Design` `Networking` `Security` `OS Concurrency` `Dev workflow`
 
-### Currently Building
+## Currently Building
  
 | Project | Stack | Status |
 |---|---|---|
 | 🎵 Local Shazam | Python · ACRCloud · scipy.fft | In Progress |
 | 📚 CAIE Past Paper Predictor | Python · Streamlit · pdfplumber · pandas | In Progress |
 
-👨‍💻 Programming Languages
+## Skills
+
+### Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,r,c,html,css,java&perline=7" />
   </a>
 </p>
 
-🧰 Frameworks and Libraries
+### Frameworks and Libraries
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pytorch,npm,tensorflow,sklearn,opencv&perline=5" />
   </a>
 </p>
 
-🗄️ Databases and Cloud
+### Databases and Cloud
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres&perline=3" />
   </a>
 </p>
 
-💻 Software and Tools
+### Software and Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps,ai,notion&perline=8" />
   </a>
 </p>
+
+## Connect
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Let's+connect+%F0%9F%91%8B;Always+open+to+new+opportunities!;Drop+me+a+message+anytime+%F0%9F%93%A9;Find+me+across+all+platforms+below+%E2%AC%87%EF%B8%8F" alt="Typing SVG" /></a>
