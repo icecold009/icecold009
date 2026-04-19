@@ -53,21 +53,32 @@
 </p>
 
 ## Projects Completed
- 
-**[🎬 Movie & TV Tracker Website](https://github.com/icecold009/movie-tracker)**
-A personal web app to track movies and TV shows. It auto-fetches cover art from the TMDB API, supports Watched / Want to Watch status, and includes a color-coded 1-10 rating bar. It also has a password-protected admin login with a public read-only view. Hosted on Render.
-`Python` `Flask` `PostgreSQL` `TMDB API` `Render` `Supabase`
- 
-**[📖 TIL — Today I Learned Repository](https://github.com/icecold009/til)**
-A running collection of medium- to short-form, well-structured notes on things I learn daily. Includes diagrams. 30+ entries across computer science, system design, networking, databases, machine learning, OS concurrency, and more.
-`Markdown` `Computer Science` `System Design` `Networking` `Security` `OS Concurrency` `Dev workflow`
+
+### 🎬 [Movie & TV Tracker Website](https://github.com/icecold009/movie-tracker)
+![Status](https://img.shields.io/badge/Status-Live-22C55E?style=flat-square) ![Type](https://img.shields.io/badge/Type-Full%20Stack-0EA5E9?style=flat-square)
+
+> A personal web app to track movies and TV shows with auto-fetched TMDB cover art, Watched/Want-to-Watch states, and a color-coded 1-10 rating bar. Includes password-protected admin access with a public read-only view.
+
+**Stack:** Python · Flask · PostgreSQL · TMDB API · Render · Supabase
+
+### 📖 [TIL — Today I Learned Repository](https://github.com/icecold009/til)
+![Status](https://img.shields.io/badge/Status-Active-38BDF8?style=flat-square) ![Type](https://img.shields.io/badge/Type-Knowledge%20Base-6366F1?style=flat-square)
+
+> A growing collection of structured learning notes and diagrams with 30+ entries across CS fundamentals, system design, networking, databases, machine learning, OS concurrency, and developer workflow.
+
+**Focus Areas:** Markdown · Computer Science · System Design · Networking · Security · OS Concurrency
 
 ## Currently Building
- 
-| Project | Stack | Status |
-|---|---|---|
-| 🎵 Local Shazam | Python · ACRCloud · scipy.fft | In Progress |
-| 📚 CAIE Past Paper Predictor | Python · Streamlit · pdfplumber · pandas | In Progress |
+
+| Project | What it does | Stack | Stage |
+|---|---|---|---|
+| 🎵 **Local Shazam** | Identifies songs from short local clips | Python · ACRCloud · scipy.fft | ![In Progress](https://img.shields.io/badge/In%20Progress-F59E0B?style=flat-square) |
+| 📚 **CAIE Past Paper Predictor** | Analyzes papers and predicts likely question patterns | Python · Streamlit · pdfplumber · pandas | ![In Progress](https://img.shields.io/badge/In%20Progress-F59E0B?style=flat-square) |
+
+**Build Priorities**
+
+- 🎵 Local Shazam: improve matching accuracy and speed on noisy audio
+- 📚 CAIE Predictor: strengthen extraction and trend consistency across years
 
 ## Skills
 
