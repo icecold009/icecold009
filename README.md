@@ -4,11 +4,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=CCD6F6&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;Machine+Learning+%7C+Predictive+Modeling;Turning+Raw+Data+into+Actionable+Insights+%F0%9F%9A%80;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
-<a href="https://github.com/icecold009" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-icecold009-181717?style=flat-square&logo=github" />
-</a>&nbsp;&nbsp;
-<a href="mailto:sariashaurya09@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-sariashaurya09-D14836?style=flat-square&logo=gmail&logoColor=white" />
+<a href="https://github.com/icecold009" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:sariashaurya09@gmail.com" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Gmail" />
 </a>
 
 </div>
@@ -32,27 +33,27 @@
 
 <br clear="right" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:0EA5E9,100:7DD3FC&height=3&section=header" alt="decorative top bar" />
-</p>
+<table width="100%">
+  <tr>
+    <td align="center" bgcolor="#F3F4F6"><strong>Currently Building</strong></td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&size=15&duration=4200&pause=1400&color=38BDF8&center=true&vCenter=true&width=500&lines=%E2%9C%A8+Streak+Vault+%E2%9C%A8;Total+Contributions+%7C+Current+Streak+%7C+Longest+Streak" alt="Streak banner" />
-</p>
+| Project | What it does | Stack | Stage |
+|---|---|---|---|
+| 🎵 **Local Shazam** | Identifies songs from short local clips | Python · ACRCloud · scipy.fft | ![In Progress](https://img.shields.io/badge/In%20Progress-F59E0B?style=flat-square) |
+| 📚 **CAIE Past Paper Predictor** | Analyzes papers and predicts likely question patterns | Python · Streamlit · pdfplumber · pandas | ![In Progress](https://img.shields.io/badge/In%20Progress-F59E0B?style=flat-square) |
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=icecold009&theme=highcontrast&hide_border=true&stroke=38BDF8&fire=38BDF8&ring=38BDF8&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=CCD6F6" alt="GitHub Streak Stats" />
-</p>
+**Build Priorities**
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7DD3FC,50:0EA5E9,100:38BDF8&height=3&section=footer" alt="decorative bottom bar" />
-</p>
+- 🎵 Local Shazam: improve matching accuracy and speed on noisy audio
+- 📚 CAIE Predictor: strengthen extraction and trend consistency across years
 
-<p align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
-</p>
-
-## Projects Completed
+<table width="100%">
+  <tr>
+    <td align="center" bgcolor="#F3F4F6"><strong>Projects Completed</strong></td>
+  </tr>
+</table>
 
 ### 🎬 [Movie & TV Tracker Website](https://github.com/icecold009/movie-tracker)
 ![Status](https://img.shields.io/badge/Status-Live-22C55E?style=flat-square) ![Type](https://img.shields.io/badge/Type-Full%20Stack-0EA5E9?style=flat-square)
@@ -68,19 +69,11 @@
 
 **Focus Areas:** Markdown · Computer Science · System Design · Networking · Security · OS Concurrency
 
-## Currently Building
-
-| Project | What it does | Stack | Stage |
-|---|---|---|---|
-| 🎵 **Local Shazam** | Identifies songs from short local clips | Python · ACRCloud · scipy.fft | ![In Progress](https://img.shields.io/badge/In%20Progress-F59E0B?style=flat-square) |
-| 📚 **CAIE Past Paper Predictor** | Analyzes papers and predicts likely question patterns | Python · Streamlit · pdfplumber · pandas | ![In Progress](https://img.shields.io/badge/In%20Progress-F59E0B?style=flat-square) |
-
-**Build Priorities**
-
-- 🎵 Local Shazam: improve matching accuracy and speed on noisy audio
-- 📚 CAIE Predictor: strengthen extraction and trend consistency across years
-
-## Skills
+<table width="100%">
+  <tr>
+    <td align="center" bgcolor="#F3F4F6"><strong>Skills</strong></td>
+  </tr>
+</table>
 
 ### Programming Languages
 <p align="center">
@@ -110,13 +103,27 @@
   </a>
 </p>
 
-## Language Breakdown
+<p align="center"><strong>────────── ✦ ✦ ✦ ──────────</strong></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icecold009&layout=pie&theme=tokyonight&hide_border=true" alt="Languages pie chart" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&size=15&duration=4200&pause=1400&color=38BDF8&center=true&vCenter=true&width=500&lines=%E2%9C%A8+Streak+Vault+%E2%9C%A8;Total+Contributions+%7C+Current+Streak+%7C+Longest+Streak" alt="Streak banner" />
 </p>
 
-## Connect
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=icecold009&theme=highcontrast&hide_border=true&stroke=38BDF8&fire=38BDF8&ring=38BDF8&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=CCD6F6" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center"><strong>────────── ✦ ✦ ✦ ──────────</strong></p>
+
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+</p>
+
+<table width="100%">
+  <tr>
+    <td align="center" bgcolor="#F3F4F6"><strong>Connect</strong></td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Let's+connect+%F0%9F%91%8B;Always+open+to+new+opportunities!;Drop+me+a+message+anytime+%F0%9F%93%A9;Find+me+across+all+platforms+below+%E2%AC%87%EF%B8%8F" alt="Typing SVG" /></a>
