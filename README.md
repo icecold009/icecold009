@@ -21,23 +21,16 @@
   A 17-year-old data enthusiast based in Bangalore, passionate about uncovering insights and turning them into meaningful solutions. My curiosity about how data shapes decisions drives my work, and I am currently building a toolkit across analytics, machine learning, and predictive modeling.
 </p>
 
-<table>
-  <tr>
-    <td width="62%" valign="top">
-      <ul>
-        <li>High school student currently studying A-levels</li>
-        <li>Based in Bangalore, India</li>
-        <li>Expanding my knowledge of advanced ML and data science frameworks</li>
-        <li>Open to collaborate on data analysis, predictive modeling, and visualization</li>
-        <li>Goal: build a high-performance data science toolkit</li>
-        <li>Driven by curiosity about how data shapes decision-making</li>
-      </ul>
-    </td>
-    <td width="38%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding graphic" />
-    </td>
-  </tr>
-</table>
+<img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Coding graphic" />
+
+- 🎓 High school student currently studying A-levels
+- 🌍 Based in Bangalore, India
+- 🧠 Expanding my knowledge of advanced ML and data science frameworks
+- 🤝 Open to collaborate on data analysis, predictive modeling, and visualization
+- 🎯 Goal: build a high-performance data science toolkit
+- ⚡ Driven by curiosity about how data shapes decision-making
+
+<br clear="right" />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:0EA5E9,100:7DD3FC&height=3&section=header" alt="decorative top bar" />
