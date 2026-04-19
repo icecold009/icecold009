@@ -40,6 +40,10 @@ A 17-year-old data enthusiast based in Bangalore, passionate about uncovering in
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7DD3FC,50:0EA5E9,100:38BDF8&height=3&section=footer" alt="decorative bottom bar" />
 </p>
 
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+</p>
+
 ## Projects Completed
  
 **[🎬 Movie & TV Tracker Website](https://github.com/icecold009/movie-tracker)**
@@ -85,6 +89,12 @@ A running collection of medium- to short-form, well-structured notes on things I
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps,ai,notion&perline=8" />
   </a>
+</p>
+
+## Language Breakdown
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icecold009&layout=pie&theme=tokyonight&hide_border=true" alt="Languages pie chart" />
 </p>
 
 ## Connect
