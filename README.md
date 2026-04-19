@@ -13,16 +13,31 @@
 
 </div>
 
-## About Me
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0EA5E9,100:7DD3FC&height=120&section=header&text=ABOUT%20ME&fontSize=42&fontColor=FFFFFF&animation=fadeIn" alt="About Me title" />
+</p>
 
-A 17-year-old data enthusiast based in Bangalore, passionate about uncovering insights and turning them into meaningful solutions. My curiosity about how data shapes decisions drives my work, and I’m currently building a toolkit across analytics, machine learning, and predictive modeling.
+<p align="center">
+  A 17-year-old data enthusiast based in Bangalore, passionate about uncovering insights and turning them into meaningful solutions. My curiosity about how data shapes decisions drives my work, and I am currently building a toolkit across analytics, machine learning, and predictive modeling.
+</p>
 
-* 🎓 High school student currently studying A-levels
-* 🌍 Based in Bangalore, India
-* 🧠 Expanding my knowledge of advanced ML and data science frameworks
-* 🤝 Open to collaborate on data analysis, predictive modeling & visualization
-* 🎯 Goal: build a high-performance data science toolkit
-* ⚡ Driven by curiosity about how data shapes decision-making
+<table>
+  <tr>
+    <td width="62%" valign="top">
+      <ul>
+        <li>High school student currently studying A-levels</li>
+        <li>Based in Bangalore, India</li>
+        <li>Expanding my knowledge of advanced ML and data science frameworks</li>
+        <li>Open to collaborate on data analysis, predictive modeling, and visualization</li>
+        <li>Goal: build a high-performance data science toolkit</li>
+        <li>Driven by curiosity about how data shapes decision-making</li>
+      </ul>
+    </td>
+    <td width="38%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding graphic" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:0EA5E9,100:7DD3FC&height=3&section=header" alt="decorative top bar" />
