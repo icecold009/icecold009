@@ -24,6 +24,22 @@ A 17-year-old data enthusiast based in Bangalore, passionate about uncovering in
 * 🎯 Goal: build a high-performance data science toolkit
 * ⚡ Driven by curiosity about how data shapes decision-making
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,50:0EA5E9,100:7DD3FC&height=3&section=header" alt="decorative top bar" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&size=15&duration=4200&pause=1400&color=38BDF8&center=true&vCenter=true&width=500&lines=%E2%9C%A8+Streak+Vault+%E2%9C%A8;Total+Contributions+%7C+Current+Streak+%7C+Longest+Streak" alt="Streak banner" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=icecold009&theme=highcontrast&hide_border=true&stroke=38BDF8&fire=38BDF8&ring=38BDF8&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=CCD6F6" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7DD3FC,50:0EA5E9,100:38BDF8&height=3&section=footer" alt="decorative bottom bar" />
+</p>
+
 ## Projects Completed
  
 **[🎬 Movie & TV Tracker Website](https://github.com/icecold009/movie-tracker)**
