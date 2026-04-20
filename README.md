@@ -69,6 +69,13 @@
 
 **Focus Areas:** Markdown · Computer Science · System Design · Networking · Security · OS Concurrency
 
+### 👤 [Face Attendance System](https://github.com/icecold009/face-attendance-opencv-python)
+![Status](https://img.shields.io/badge/Status-Complete-22C55E?style=flat-square) ![Type](https://img.shields.io/badge/Type-Computer%20Vision-7C3AED?style=flat-square)
+
+> A local-first face recognition system for automatic attendance marking. Features real-time face detection at ~5 fps, one-entry-per-person-per-day deduplication, a modern Flask web dashboard with live webcam feed, and daily CSV export — all running 100% offline with no cloud dependencies.
+
+**Stack:** Python · OpenCV · face-recognition · dlib · Flask · pandas
+
 <table width="100%">
   <tr>
     <td align="center" bgcolor="#F3F4F6"><strong>Skills</strong></td>
