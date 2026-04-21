@@ -29,8 +29,7 @@
 - 🧠 Expanding my knowledge of advanced ML and data science frameworks
 - 🤝 Open to collaborate on data analysis, predictive modeling, and visualization
 - 🎯 Goal: build a high-performance data science toolkit
-- ⚡ Driven by curiosity about how data shapes decision-making
-
+  
 <br clear="right" />
 
 <table width="100%">
