@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  A 17-year-old data enthusiast based in Bangalore, passionate about uncovering insights and turning them into meaningful solutions. My curiosity about how data shapes decisions drives my work, and I am currently building a toolkit across analytics, machine learning, and predictive modeling.
+  A 17-year-old A-Level student, data enthusiast based in Bangalore, passionate about uncovering insights and turning them into meaningful solutions. My curiosity about how data shapes decisions drives my work, and I am currently building a toolkit across analytics, machine learning, and predictive modeling.
 </p>
 
 <img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Coding graphic" />
