@@ -32,41 +32,73 @@
   
 <br clear="right" />
 
-<table width="100%">
-  <tr>
-    <td align="center" bgcolor="#F3F4F6"><strong>Currently Building</strong></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=flat&color=0EA5E9&height=60&section=header&text=Currently%20Building&fontSize=28&fontColor=FFFFFF&animation=none" alt="Currently Building" />
+</p>
 
-| Project | What it does | Stack | Stage |
-|---|---|---|---|
-| 🎵 **Local Shazam** | Identifies songs from short local clips | Python · ACRCloud · scipy.fft | ![In Progress](https://img.shields.io/badge/In%20Progress-F59E0B?style=flat-square) |
-| 📚 **CAIE Past Paper Predictor** | Analyzes papers and predicts likely question patterns | Python · Streamlit · pdfplumber · pandas | ![In Progress](https://img.shields.io/badge/In%20Progress-F59E0B?style=flat-square) |
+---
 
-**Build Priorities**
+### 🎵 Local Shazam
+![In Progress](https://img.shields.io/badge/In%20Progress-F59E0B?style=flat) ![ML Project](https://img.shields.io/badge/ML%20Project-F97316?style=flat)
 
-- 🎵 Local Shazam: improve matching accuracy and speed on noisy audio
-- 📚 CAIE Predictor: strengthen extraction and trend consistency across years
+Identifies songs from short local clips with real-time audio matching.
+```
+Python · ACRCloud · scipy.fft
+```
 
-<table width="100%">
-  <tr>
-    <td align="center" bgcolor="#F3F4F6"><strong>Projects Completed</strong></td>
-  </tr>
-</table>
+---
 
-### 🎬 [Movie & TV Tracker Website](https://github.com/icecold009/movie-tracker)
-![Status](https://img.shields.io/badge/Status-Live-22C55E?style=flat-square) ![Type](https://img.shields.io/badge/Type-Full%20Stack-0EA5E9?style=flat-square)
+### 📚 CAIE Past Paper Predictor
+![In Progress](https://img.shields.io/badge/In%20Progress-F59E0B?style=flat) ![Data Tool](https://img.shields.io/badge/Data%20Tool-8B5CF6?style=flat)
 
-> A personal web app to track movies and TV shows with auto-fetched TMDB cover art, Watched/Want-to-Watch states, and a color-coded 1-10 rating bar. Includes password-protected admin access with a public read-only view.
+Analyzes past papers and predicts likely question patterns using statistical trends.
+```
+Python · Streamlit · pdfplumber · pandas
+```
 
-**Stack:** Python · Flask · PostgreSQL · TMDB API · Render · Supabase
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=flat&color=1E293B&height=60&section=header&text=Projects%20Completed&fontSize=28&fontColor=E0F2FE&animation=none" alt="Projects Completed" />
+</p>
 
-### 📖 [TIL — Today I Learned Repository](https://github.com/icecold009/til)
-![Status](https://img.shields.io/badge/Status-Active-38BDF8?style=flat-square) ![Type](https://img.shields.io/badge/Type-Knowledge%20Base-6366F1?style=flat-square)
+---
 
-> A growing collection of structured learning notes and diagrams with 30+ entries across CS fundamentals, system design, networking, databases, machine learning, OS concurrency, and developer workflow.
+### 🎬 [Movie & TV Tracker](https://github.com/icecold009/movie-tracker)
+![Live](https://img.shields.io/badge/Live-22C55E?style=flat) ![Full Stack](https://img.shields.io/badge/Full%20Stack-0EA5E9?style=flat)
 
-**Focus Areas:** Markdown · Computer Science · System Design · Networking · Security · OS Concurrency
+Personal web app to track movies and TV shows with TMDB integration, rating system, and admin controls.
+```
+Python · Flask · PostgreSQL · TMDB API · Supabase
+```
+
+---
+
+### 📖 [TIL — Today I Learned](https://github.com/icecold009/til)
+![Active](https://img.shields.io/badge/Active-38BDF8?style=flat) ![Knowledge Base](https://img.shields.io/badge/Knowledge%20Base-6366F1?style=flat)
+
+Structured collection of 30+ learning notes covering CS fundamentals, system design, networking, and ML.
+```
+Markdown · Computer Science · System Design · Networking
+```
+
+---
+
+### 👤 [Face Attendance System](https://github.com/icecold009/face-attendance)
+![Completed](https://img.shields.io/badge/Completed-22C55E?style=flat) ![ML Project](https://img.shields.io/badge/ML%20Project-10B981?style=flat)
+
+Automated attendance system using facial recognition and real-time detection.
+```
+Python · OpenCV · Face Recognition · TensorFlow
+```
+
+---
+
+### 🎵 [Spotify Mini Clone](https://github.com/icecold009/spotify-mini-clone)
+![Completed](https://img.shields.io/badge/Completed-22C55E?style=flat) ![Frontend](https://img.shields.io/badge/Frontend-F59E0B?style=flat)
+
+Interactive music player interface inspired by Spotify's design.
+```
+HTML · CSS · JavaScript · Responsive Design
+```
 
 <table width="100%">
   <tr>
