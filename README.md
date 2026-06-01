@@ -32,52 +32,64 @@
   
 <br clear="right" />
 
-## Currently Building
-### 🎵 Local Shazam
-![In Progress](https://img.shields.io/badge/In%20Progress-F59E0B?style=flat) ![ML Project](https://img.shields.io/badge/ML%20Project-F97316?style=flat)
+<h2>Currently Building</h2>
+<table width="100%" cellpadding="12" cellspacing="12">
+  <tr>
+    <td width="50%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
+      <h3>🎵 Local Shazam</h3>
+      <img src="https://img.shields.io/badge/In%20Progress-F59E0B?style=flat" alt="In Progress" /> <img src="https://img.shields.io/badge/ML%20Project-F97316?style=flat" alt="ML Project" />
+      <p>Identifies songs from short local clips with real-time audio matching.</p>
+      <pre>Python · ACRCloud · scipy.fft</pre>
+    </td>
+    <td width="50%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
+      <h3>📚 CAIE Past Paper Predictor</h3>
+      <img src="https://img.shields.io/badge/In%20Progress-F59E0B?style=flat" alt="In Progress" /> <img src="https://img.shields.io/badge/Data%20Tool-8B5CF6?style=flat" alt="Data Tool" />
+      <p>Analyzes past papers and predicts likely question patterns using statistical trends.</p>
+      <pre>Python · Streamlit · pdfplumber · pandas</pre>
+    </td>
+  </tr>
+</table>
 
-Identifies songs from short local clips with real-time audio matching.
-```
-Python · ACRCloud · scipy.fft
-```
-### 📚 CAIE Past Paper Predictor
-![In Progress](https://img.shields.io/badge/In%20Progress-F59E0B?style=flat) ![Data Tool](https://img.shields.io/badge/Data%20Tool-8B5CF6?style=flat)
-
-Analyzes past papers and predicts likely question patterns using statistical trends.
-```
-Python · Streamlit · pdfplumber · pandas
-```
-
-## Projects Completed
-
-### 🎬 [Movie & TV Tracker](https://github.com/icecold009/movie-tracker)
-![Live](https://img.shields.io/badge/Live-22C55E?style=flat) ![Full Stack](https://img.shields.io/badge/Full%20Stack-0EA5E9?style=flat)
-
-Personal web app to track movies and TV shows with TMDB integration, rating system, and admin controls.
-```
-Python · Flask · PostgreSQL · TMDB API · Supabase
-```
-### 📖 [TIL — Today I Learned](https://github.com/icecold009/til)
-![Active](https://img.shields.io/badge/Active-38BDF8?style=flat) ![Knowledge Base](https://img.shields.io/badge/Knowledge%20Base-6366F1?style=flat)
-
-Structured collection of 30+ learning notes covering CS fundamentals, system design, networking, and ML.
-```
-Markdown · Computer Science · System Design · Networking
-```
-### 👤 [Face Attendance System](https://github.com/icecold009/face-attendance)
-![Completed](https://img.shields.io/badge/Completed-22C55E?style=flat) ![ML Project](https://img.shields.io/badge/ML%20Project-10B981?style=flat)
-
-Automated attendance system using facial recognition and real-time detection.
-```
-Python · OpenCV · Face Recognition · TensorFlow
-```
-### 🎵 [Spotify Mini Clone](https://github.com/icecold009/spotify-mini-clone)
-![Completed](https://img.shields.io/badge/Completed-22C55E?style=flat) ![Frontend](https://img.shields.io/badge/Frontend-F59E0B?style=flat)
-
-Interactive music player interface inspired by Spotify's design.
-```
-HTML · CSS · JavaScript · Responsive Design
-```
+<h2>Projects Completed</h2>
+<table width="100%" cellpadding="12" cellspacing="12">
+  <tr>
+    <td width="50%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
+      <h3>🎬 <a href="https://github.com/icecold009/movie-tracker">Movie &amp; TV Tracker</a></h3>
+      <img src="https://img.shields.io/badge/Live-22C55E?style=flat" alt="Live" /> <img src="https://img.shields.io/badge/Full%20Stack-0EA5E9?style=flat" alt="Full Stack" />
+      <p>Personal web app to track movies and TV shows with TMDB integration, rating system, and admin controls.</p>
+      <pre>Python · Flask · PostgreSQL · TMDB API · Supabase</pre>
+    </td>
+    <td width="50%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
+      <h3>🎵 Local Shazam</h3>
+      <img src="https://img.shields.io/badge/Completed-22C55E?style=flat" alt="Completed" /> <img src="https://img.shields.io/badge/ML%20Project-10B981?style=flat" alt="ML Project" />
+      <p>Identifies songs from short local clips with real-time audio matching.</p>
+      <pre>Python · ACRCloud · scipy.fft</pre>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
+      <h3>📖 <a href="https://github.com/icecold009/til">TIL — Today I Learned</a></h3>
+      <img src="https://img.shields.io/badge/Active-38BDF8?style=flat" alt="Active" /> <img src="https://img.shields.io/badge/Knowledge%20Base-6366F1?style=flat" alt="Knowledge Base" />
+      <p>Structured collection of 30+ learning notes covering CS fundamentals, system design, networking, and ML.</p>
+      <pre>Markdown · Computer Science · System Design · Networking</pre>
+    </td>
+    <td width="50%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
+      <h3>👤 <a href="https://github.com/icecold009/face-attendance">Face Attendance System</a></h3>
+      <img src="https://img.shields.io/badge/Completed-22C55E?style=flat" alt="Completed" /> <img src="https://img.shields.io/badge/ML%20Project-10B981?style=flat" alt="ML Project" />
+      <p>Automated attendance system using facial recognition and real-time detection.</p>
+      <pre>Python · OpenCV · Face Recognition · TensorFlow</pre>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
+      <h3>🎵 <a href="https://github.com/icecold009/spotify-mini-clone">Spotify Mini Clone</a></h3>
+      <img src="https://img.shields.io/badge/Completed-22C55E?style=flat" alt="Completed" /> <img src="https://img.shields.io/badge/Frontend-F59E0B?style=flat" alt="Frontend" />
+      <p>Interactive music player interface inspired by Spotify's design.</p>
+      <pre>HTML · CSS · JavaScript · Responsive Design</pre>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
 
 <table width="100%">
   <tr>
