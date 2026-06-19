@@ -36,7 +36,7 @@
 <table width="100%" cellpadding="12" cellspacing="12">
   <tr>
     <td width="50%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
-      <h3>Local Shazam</h3>
+      <h3>Audio Recognition</h3>
       <img src="https://img.shields.io/badge/In%20Progress-F59E0B?style=flat" alt="In Progress" /> <img src="https://img.shields.io/badge/ML%20Project-F97316?style=flat" alt="ML Project" />
       <p>Matches short audio clips against local references to identify songs quickly.</p>
       <pre>Python · ACRCloud · scipy.fft</pre>
@@ -60,7 +60,7 @@
       <pre>Python · Flask · PostgreSQL · TMDB API · Supabase</pre>
     </td>
     <td width="50%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
-      <h3>Local Shazam</h3>
+      <h3>Audio Recognition</h3>
       <img src="https://img.shields.io/badge/Completed-22C55E?style=flat" alt="Completed" /> <img src="https://img.shields.io/badge/ML%20Project-10B981?style=flat" alt="ML Project" />
       <p>Matches short audio clips against local references to identify songs quickly.</p>
       <pre>Python · ACRCloud · scipy.fft</pre>
