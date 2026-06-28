@@ -102,28 +102,28 @@ Currently applying to undergraduate CS programmes (2026 entry).
 ### Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,c,html,css,java&perline=7" />
+    <img src="https://skillicons.dev/icons?i=python,r,c,html,css,js,java&perline=7" />
   </a>
 </p>
 
 ### Frameworks and Libraries
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,npm,tensorflow,sklearn,opencv&perline=5" />
+    <img src="https://skillicons.dev/icons?i=flask,react,pytorch,npm,tensorflow,sklearn,opencv&perline=5" />
   </a>
 </p>
 
 ### Databases and Cloud
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres&perline=3" />
+    <img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,sqlite,vercel&perline=3" />
   </a>
 </p>
 
 ### Software and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps,ai,notion&perline=8" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps,notion&perline=8" />
   </a>
 </p>
 
