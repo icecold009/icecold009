@@ -130,18 +130,6 @@ Currently applying to undergraduate CS programmes (2026 entry).
   </a>
 </p>
 
-<p align="center"><strong>────────── • • • ──────────</strong></p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&size=15&duration=4200&pause=1400&color=38BDF8&center=true&vCenter=true&width=500&lines=Streak+Vault;Total+Contributions+%7C+Current+Streak+%7C+Longest+Streak" alt="Streak banner" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=icecold009&theme=highcontrast&hide_border=true&stroke=38BDF8&fire=38BDF8&ring=38BDF8&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=CCD6F6" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center"><strong>────────── • • • ──────────</strong></p>
-
 <p align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 </p>
