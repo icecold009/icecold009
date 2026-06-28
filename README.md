@@ -109,14 +109,14 @@ Currently applying to undergraduate CS programmes (2026 entry).
 ### Frameworks and Libraries
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,react,pytorch,npm,tensorflow,sklearn,opencv&perline=5" />
+    <img src="https://skillicons.dev/icons?i=flask,react,pytorch,npm,tensorflow,sklearn,opencv&perline=7" />
   </a>
 </p>
 
 ### Databases and Cloud
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,sqlite,vercel&perline=3" />
+    <img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,sqlite,vercel&perline=5" />
   </a>
 </p>
 
