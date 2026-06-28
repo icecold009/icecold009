@@ -4,9 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=CCD6F6&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;Machine+Learning+%7C+Predictive+Modeling;Turning+Raw+Data+into+Actionable+Insights;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
-<a href="https://github.com/icecold009" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" />
-</a>
 &nbsp;&nbsp;
 <a href="mailto:sariashaurya09@gmail.com" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Gmail" />
@@ -19,7 +16,8 @@
 </p>
 
 <p align="center">
-  A 17-year-old A-Level student, data enthusiast based in Bangalore, passionate about uncovering insights and turning them into meaningful solutions. My curiosity about how data shapes decisions drives my work, and I am currently building a toolkit across analytics, machine learning, and predictive modeling.
+Backend & full-stack developer based in Bengaluru. Building audio signal processing systems, ML pipelines, and full-stack web apps.
+Currently applying to undergraduate CS programmes (2026 entry).
 </p>
 
 - High school student currently studying A-levels
