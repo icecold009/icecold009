@@ -4,9 +4,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=CCD6F6&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;Machine+Learning+%7C+Predictive+Modeling;Turning+Raw+Data+into+Actionable+Insights;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
-&nbsp;&nbsp;
 <a href="mailto:sariashaurya09@gmail.com" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Gmail" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shaurya-saria009" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="42" height="42" alt="LinkedIn" title="LinkedIn" />
 </a>
 
 </div>
