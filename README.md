@@ -137,19 +137,3 @@ Currently applying to undergraduate CS programmes (2026 entry).
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Let's+connect;Always+open+to+new+opportunities!;Drop+me+a+message+anytime;Find+me+across+all+platforms+below" alt="Typing SVG" /></a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/icecold009" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="42" height="42" alt="GitHub" title="GitHub" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/shaurya._.saria/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="42" height="42" alt="Instagram" title="Instagram" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/shaurya-saria009" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="42" height="42" alt="LinkedIn" title="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-</p>
-
