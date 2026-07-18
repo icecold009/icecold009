@@ -35,22 +35,22 @@ Currently applying to undergraduate CS programmes (2026 entry).
 <table width="100%" cellpadding="12" cellspacing="12">
   <tr>
     <td width="33%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
-      <h3><a href="https://github.com/icecold009/Shazam-project">Audio Recognition</a></h3>
-      <img src="https://img.shields.io/badge/In%20Progress-F59E0B?style=flat" alt="In Progress" /> <img src="https://img.shields.io/badge/Signal%20Processing-F97316?style=flat" alt="Signal Processing" />
-      <p>Identifies songs from short audio clips using FFT-based fingerprinting and spectrogram hashing.</p>
-      <pre>Python · Flask · React · scipy.fft</pre>
-    </td>
-    <td width="33%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
-      <h3>F1 Telemetry Dashboard</h3>
-      <img src="https://img.shields.io/badge/In%20Progress-F59E0B?style=flat" alt="In Progress" /> <img src="https://img.shields.io/badge/Data%20Viz-8B5CF6?style=flat" alt="Data Viz" />
-      <p>Visualises live and historical F1 telemetry data — lap times, tyre strategy, and driver comparisons.</p>
-      <pre>Python · FastF1 · Plotly · Streamlit</pre>
-    </td>
-    <td width="33%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
-      <h3>Portfolio Website</h3>
+      <h3><a href="https://github.com/icecold009/shaurya-portfolio">Shaurya Portfolio</a></h3>
       <img src="https://img.shields.io/badge/In%20Progress-F59E0B?style=flat" alt="In Progress" /> <img src="https://img.shields.io/badge/Frontend-0EA5E9?style=flat" alt="Frontend" />
-      <p>Personal developer portfolio showcasing projects, skills, and writing — deployed on Vercel.</p>
-      <pre>React · Tailwind CSS · Vercel</pre>
+      <p>Personal portfolio site for showcasing projects, skills, and writing with a more polished public presence.</p>
+      <pre>React • Tailwind CSS • Vercel</pre>
+    </td>
+    <td width="33%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
+      <h3><a href="https://github.com/icecold009/stadiumpulse-ai">StadiumPulse AI</a></h3>
+      <img src="https://img.shields.io/badge/In%20Progress-F59E0B?style=flat" alt="In Progress" /> <img src="https://img.shields.io/badge/Data%20Viz-8B5CF6?style=flat" alt="Data Viz" />
+      <p>AI-powered analytics project focused on turning match and venue data into practical insights.</p>
+      <pre>TypeScript • AI workflows • Data dashboards</pre>
+    </td>
+    <td width="33%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
+      <h3><a href="https://github.com/icecold009/token-smart-router">Token Smart Router</a></h3>
+      <img src="https://img.shields.io/badge/In%20Progress-F59E0B?style=flat" alt="In Progress" /> <img src="https://img.shields.io/badge/Frontend-0EA5E9?style=flat" alt="Frontend" />
+      <p>Lightweight routing project for handling token-aware workflows and smarter request handling.</p>
+      <pre>JavaScript • TypeScript • Routing logic</pre>
     </td>
   </tr>
 </table>
@@ -59,40 +59,45 @@ Currently applying to undergraduate CS programmes (2026 entry).
 <table width="100%" cellpadding="12" cellspacing="12">
   <tr>
     <td width="50%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
+      <h3><a href="https://github.com/icecold009/Audio-Recognition">Audio Recognition</a></h3>
+      <img src="https://img.shields.io/badge/Completed-22C55E?style=flat" alt="Completed" /> <img src="https://img.shields.io/badge/Signal%20Processing-F97316?style=flat" alt="Signal Processing" />
+      <p>DIY Shazam-style app that recognises songs from short audio clips using FFT analysis and fingerprinting.</p>
+      <pre>Python • Flask • React • scipy.fft</pre>
+    </td>
+    <td width="50%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
       <h3><a href="https://github.com/icecold009/movie-tracker">Movie &amp; TV Tracker</a></h3>
       <img src="https://img.shields.io/badge/Live-22C55E?style=flat" alt="Live" /> <img src="https://img.shields.io/badge/Full%20Stack-0EA5E9?style=flat" alt="Full Stack" />
       <p>Full-stack watchlist app with PostgreSQL schema design, Supabase auth, and TMDB API integration.</p>
-      <pre>Flask · PostgreSQL · Supabase · TMDB API</pre>
+      <pre>Flask • PostgreSQL • Supabase • TMDB API</pre>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
       <h3>CAIE Past Paper AI</h3>
       <img src="https://img.shields.io/badge/Completed-22C55E?style=flat" alt="Completed" /> <img src="https://img.shields.io/badge/AI%20Tool-8B5CF6?style=flat" alt="AI Tool" />
       <p>Analyses CAIE past papers using PDF parsing and Gemini API to predict likely question patterns.</p>
-      <pre>Python · pdfplumber · Gemini API · Streamlit</pre>
+      <pre>Python • pdfplumber • Gemini API • Streamlit</pre>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
       <h3><a href="https://github.com/icecold009/face-attendance-opencv-python">Face Attendance System</a></h3>
       <img src="https://img.shields.io/badge/Completed-22C55E?style=flat" alt="Completed" /> <img src="https://img.shields.io/badge/Computer%20Vision-10B981?style=flat" alt="Computer Vision" />
       <p>Real-time webcam face recognition system that automates attendance marking for registered individuals.</p>
-      <pre>Python · OpenCV · face_recognition · TensorFlow</pre>
-    </td>
-    <td width="50%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
-      <h3><a href="https://github.com/icecold009/f1-championship-prediction">F1 Championship Prediction</a></h3>
-      <img src="https://img.shields.io/badge/Completed-22C55E?style=flat" alt="Completed" /> <img src="https://img.shields.io/badge/ML%20Project-10B981?style=flat" alt="ML Project" />
-      <p>Predicts F1 championship outcomes using Random Forest classification on historical race and points data.</p>
-      <pre>Python · scikit-learn · pandas · matplotlib</pre>
+      <pre>Python • OpenCV • face_recognition • TensorFlow</pre>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
+      <h3><a href="https://github.com/icecold009/f1-championship-prediction">F1 Championship Prediction</a></h3>
+      <img src="https://img.shields.io/badge/Completed-22C55E?style=flat" alt="Completed" /> <img src="https://img.shields.io/badge/ML%20Project-10B981?style=flat" alt="ML Project" />
+      <p>Predicts F1 championship outcomes using Random Forest classification on historical race and points data.</p>
+      <pre>Python • scikit-learn • pandas • matplotlib</pre>
+    </td>
+    <td width="50%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
       <h3><a href="https://github.com/icecold009/TIL-Today-I-learnt">TIL: Today I Learned</a></h3>
       <img src="https://img.shields.io/badge/Active-38BDF8?style=flat" alt="Active" /> <img src="https://img.shields.io/badge/Knowledge%20Base-6366F1?style=flat" alt="Knowledge Base" />
-      <p>Running log of CS concepts, algorithms, and system design insights — with derivations and proofs.</p>
-      <pre>Markdown · CS Theory · Algorithms · System Design</pre>
+      <p>Running log of CS concepts, algorithms, and system design insights • with derivations and proofs.</p>
+      <pre>Markdown • CS Theory • Algorithms • System Design</pre>
     </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
