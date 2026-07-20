@@ -19,17 +19,9 @@
 </p>
 
 <p align="center">
-Backend & full-stack developer based in Bengaluru. Building audio signal processing systems, ML pipelines, and full-stack web apps.
-Currently applying to undergraduate CS programmes (2026 entry).
+A-level student in Bengaluru building ML pipelines, audio signal processing, and full-stack apps.
+Open to collaborate on data analysis and predictive modeling. Applying to CS programmes (2026 entry).
 </p>
-
-- High school student currently studying A-levels
-- Based in Bangalore, India
-- Expanding knowledge of advanced ML and data science frameworks
-- Open to collaborate on data analysis, predictive modeling, and visualization
-- Goal: build a high-performance data science toolkit
-  
-<br clear="right" />
 
 <h2>Currently Building</h2>
 <table width="100%" cellpadding="12" cellspacing="12">
