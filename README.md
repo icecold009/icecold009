@@ -29,20 +29,34 @@ Open to collaborate on data analysis and predictive modeling. Applying to CS pro
     <td width="33%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
       <h3><a href="https://github.com/icecold009/shaurya-portfolio">Shaurya Portfolio</a></h3>
       <img src="https://img.shields.io/badge/In%20Progress-F59E0B?style=flat" alt="In Progress" /> <img src="https://img.shields.io/badge/Frontend-0EA5E9?style=flat" alt="Frontend" />
-      <p>Personal portfolio site for showcasing projects, skills, and writing with a more polished public presence.</p>
+      <p>Personal portfolio site for projects, skills, and writing.</p>
       <pre>React • Tailwind CSS • Vercel</pre>
-    </td>
-    <td width="33%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
-      <h3><a href="https://github.com/icecold009/stadiumpulse-ai">StadiumPulse AI</a></h3>
-      <img src="https://img.shields.io/badge/In%20Progress-F59E0B?style=flat" alt="In Progress" /> <img src="https://img.shields.io/badge/Data%20Viz-8B5CF6?style=flat" alt="Data Viz" />
-      <p>AI-powered analytics project focused on turning match and venue data into practical insights.</p>
-      <pre>TypeScript • AI workflows • Data dashboards</pre>
     </td>
     <td width="33%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
       <h3><a href="https://github.com/icecold009/token-smart-router">Token Smart Router</a></h3>
       <img src="https://img.shields.io/badge/In%20Progress-F59E0B?style=flat" alt="In Progress" /> <img src="https://img.shields.io/badge/Frontend-0EA5E9?style=flat" alt="Frontend" />
-      <p>Lightweight routing project for handling token-aware workflows and smarter request handling.</p>
+      <p>Token-aware routing and smarter request handling.</p>
       <pre>JavaScript • TypeScript • Routing logic</pre>
+    </td>
+    <td width="33%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
+      <h3>AAPL DCF Valuation</h3>
+      <img src="https://img.shields.io/badge/In%20Progress-F59E0B?style=flat" alt="In Progress" /> <img src="https://img.shields.io/badge/Finance-10B981?style=flat" alt="Finance" />
+      <p>yfinance data pull + 5-year DCF with user assumptions, intrinsic value, and margin of safety.</p>
+      <pre>Python • yfinance • DCF • pandas</pre>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
+      <h3>Portfolio Backtester</h3>
+      <img src="https://img.shields.io/badge/In%20Progress-F59E0B?style=flat" alt="In Progress" /> <img src="https://img.shields.io/badge/Quant-8B5CF6?style=flat" alt="Quant" />
+      <p>Custom portfolio vs SPY with weighting, rebalancing, Sharpe, drawdown, alpha/beta, and grade.</p>
+      <pre>Python • yfinance • pandas • numpy</pre>
+    </td>
+    <td width="33%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
+      <h3>Weather × Energy Study</h3>
+      <img src="https://img.shields.io/badge/In%20Progress-F59E0B?style=flat" alt="In Progress" /> <img src="https://img.shields.io/badge/Research-F97316?style=flat" alt="Research" />
+      <p>Tests if temperature/weather predict energy returns (XLE, USO, XOM, etc.) with evidence strength.</p>
+      <pre>Python • NOAA • Meteostat • statsmodels</pre>
     </td>
   </tr>
 </table>
@@ -51,18 +65,25 @@ Open to collaborate on data analysis and predictive modeling. Applying to CS pro
 <table width="100%" cellpadding="12" cellspacing="12">
   <tr>
     <td width="50%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
+      <h3><a href="https://github.com/icecold009/stadiumpulse-ai">StadiumPulse AI</a></h3>
+      <img src="https://img.shields.io/badge/Completed-22C55E?style=flat" alt="Completed" /> <img src="https://img.shields.io/badge/Data%20Viz-8B5CF6?style=flat" alt="Data Viz" />
+      <p>AI analytics turning match and venue data into practical insights.</p>
+      <pre>TypeScript • AI workflows • Data dashboards</pre>
+    </td>
+    <td width="50%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
       <h3><a href="https://github.com/icecold009/Audio-Recognition">Audio Recognition</a></h3>
       <img src="https://img.shields.io/badge/Completed-22C55E?style=flat" alt="Completed" /> <img src="https://img.shields.io/badge/Signal%20Processing-F97316?style=flat" alt="Signal Processing" />
       <p>DIY Shazam-style app that recognises songs from short audio clips using FFT analysis and fingerprinting.</p>
       <pre>Python • Flask • React • scipy.fft</pre>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
       <h3><a href="https://github.com/icecold009/movie-tracker">Movie &amp; TV Tracker</a></h3>
       <img src="https://img.shields.io/badge/Live-22C55E?style=flat" alt="Live" /> <img src="https://img.shields.io/badge/Full%20Stack-0EA5E9?style=flat" alt="Full Stack" />
       <p>Full-stack watchlist app with PostgreSQL schema design, Supabase auth, and TMDB API integration.</p>
       <pre>Flask • PostgreSQL • Supabase • TMDB API</pre>
     </td>
-  </tr>
   <tr>
     <td width="50%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
       <h3>CAIE Past Paper AI</h3>
