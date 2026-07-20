@@ -26,38 +26,41 @@ Open to collaborate on data analysis and predictive modeling. Applying to CS pro
 <h2>Currently Building</h2>
 <table width="100%" cellpadding="12" cellspacing="12">
   <tr>
-    <td width="33%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
+    <td width="50%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
       <h3><a href="https://github.com/icecold009/shaurya-portfolio">Shaurya Portfolio</a></h3>
       <img src="https://img.shields.io/badge/In%20Progress-F59E0B?style=flat" alt="In Progress" /> <img src="https://img.shields.io/badge/Frontend-0EA5E9?style=flat" alt="Frontend" />
       <p>Personal portfolio site for projects, skills, and writing.</p>
       <pre>React • Tailwind CSS • Vercel</pre>
     </td>
-    <td width="33%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
+    <td width="50%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
       <h3><a href="https://github.com/icecold009/token-smart-router">Token Smart Router</a></h3>
       <img src="https://img.shields.io/badge/In%20Progress-F59E0B?style=flat" alt="In Progress" /> <img src="https://img.shields.io/badge/Frontend-0EA5E9?style=flat" alt="Frontend" />
       <p>Token-aware routing and smarter request handling.</p>
       <pre>JavaScript • TypeScript • Routing logic</pre>
     </td>
-    <td width="33%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
+  </tr>
+  <tr>
+    <td width="50%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
       <h3>AAPL DCF Valuation</h3>
       <img src="https://img.shields.io/badge/In%20Progress-F59E0B?style=flat" alt="In Progress" /> <img src="https://img.shields.io/badge/Finance-10B981?style=flat" alt="Finance" />
       <p>yfinance data pull + 5-year DCF with user assumptions, intrinsic value, and margin of safety.</p>
       <pre>Python • yfinance • DCF • pandas</pre>
     </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
+    <td width="50%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
       <h3>Portfolio Backtester</h3>
       <img src="https://img.shields.io/badge/In%20Progress-F59E0B?style=flat" alt="In Progress" /> <img src="https://img.shields.io/badge/Quant-8B5CF6?style=flat" alt="Quant" />
       <p>Custom portfolio vs SPY with weighting, rebalancing, Sharpe, drawdown, alpha/beta, and grade.</p>
       <pre>Python • yfinance • pandas • numpy</pre>
     </td>
-    <td width="33%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
+  </tr>
+  <tr>
+    <td width="50%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
       <h3>Weather × Energy Study</h3>
       <img src="https://img.shields.io/badge/In%20Progress-F59E0B?style=flat" alt="In Progress" /> <img src="https://img.shields.io/badge/Research-F97316?style=flat" alt="Research" />
       <p>Tests if temperature/weather predict energy returns (XLE, USO, XOM, etc.) with evidence strength.</p>
       <pre>Python • NOAA • Meteostat • statsmodels</pre>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
@@ -73,7 +76,7 @@ Open to collaborate on data analysis and predictive modeling. Applying to CS pro
     <td width="50%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
       <h3><a href="https://github.com/icecold009/Audio-Recognition">Audio Recognition</a></h3>
       <img src="https://img.shields.io/badge/Completed-22C55E?style=flat" alt="Completed" /> <img src="https://img.shields.io/badge/Signal%20Processing-F97316?style=flat" alt="Signal Processing" />
-      <p>DIY Shazam-style app that recognises songs from short audio clips using FFT analysis and fingerprinting.</p>
+      <p>DIY Shazam-style app using FFT analysis and fingerprinting.</p>
       <pre>Python • Flask • React • scipy.fft</pre>
     </td>
   </tr>
@@ -81,36 +84,38 @@ Open to collaborate on data analysis and predictive modeling. Applying to CS pro
     <td width="50%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
       <h3><a href="https://github.com/icecold009/movie-tracker">Movie &amp; TV Tracker</a></h3>
       <img src="https://img.shields.io/badge/Live-22C55E?style=flat" alt="Live" /> <img src="https://img.shields.io/badge/Full%20Stack-0EA5E9?style=flat" alt="Full Stack" />
-      <p>Full-stack watchlist app with PostgreSQL schema design, Supabase auth, and TMDB API integration.</p>
+      <p>Watchlist app with PostgreSQL, Supabase auth, and TMDB API.</p>
       <pre>Flask • PostgreSQL • Supabase • TMDB API</pre>
     </td>
-  <tr>
     <td width="50%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
       <h3>CAIE Past Paper AI</h3>
       <img src="https://img.shields.io/badge/Completed-22C55E?style=flat" alt="Completed" /> <img src="https://img.shields.io/badge/AI%20Tool-8B5CF6?style=flat" alt="AI Tool" />
-      <p>Analyses CAIE past papers using PDF parsing and Gemini API to predict likely question patterns.</p>
+      <p>Past-paper analysis with PDF parsing and Gemini to predict patterns.</p>
       <pre>Python • pdfplumber • Gemini API • Streamlit</pre>
-    </td>
-    <td width="50%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
-      <h3><a href="https://github.com/icecold009/face-attendance-opencv-python">Face Attendance System</a></h3>
-      <img src="https://img.shields.io/badge/Completed-22C55E?style=flat" alt="Completed" /> <img src="https://img.shields.io/badge/Computer%20Vision-10B981?style=flat" alt="Computer Vision" />
-      <p>Real-time webcam face recognition system that automates attendance marking for registered individuals.</p>
-      <pre>Python • OpenCV • face_recognition • TensorFlow</pre>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
+      <h3><a href="https://github.com/icecold009/face-attendance-opencv-python">Face Attendance System</a></h3>
+      <img src="https://img.shields.io/badge/Completed-22C55E?style=flat" alt="Completed" /> <img src="https://img.shields.io/badge/Computer%20Vision-10B981?style=flat" alt="Computer Vision" />
+      <p>Real-time webcam face recognition for automated attendance.</p>
+      <pre>Python • OpenCV • face_recognition • TensorFlow</pre>
+    </td>
+    <td width="50%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
       <h3><a href="https://github.com/icecold009/f1-championship-prediction">F1 Championship Prediction</a></h3>
       <img src="https://img.shields.io/badge/Completed-22C55E?style=flat" alt="Completed" /> <img src="https://img.shields.io/badge/ML%20Project-10B981?style=flat" alt="ML Project" />
-      <p>Predicts F1 championship outcomes using Random Forest classification on historical race and points data.</p>
+      <p>Random Forest model predicting championship outcomes from race data.</p>
       <pre>Python • scikit-learn • pandas • matplotlib</pre>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top" bgcolor="#0F172A" style="border:1px solid #334155; border-radius:12px;">
       <h3><a href="https://github.com/icecold009/TIL-Today-I-learnt">TIL: Today I Learned</a></h3>
       <img src="https://img.shields.io/badge/Active-38BDF8?style=flat" alt="Active" /> <img src="https://img.shields.io/badge/Knowledge%20Base-6366F1?style=flat" alt="Knowledge Base" />
-      <p>Running log of CS concepts, algorithms, and system design insights • with derivations and proofs.</p>
+      <p>Running log of CS concepts, algorithms, and system design.</p>
       <pre>Markdown • CS Theory • Algorithms • System Design</pre>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
