@@ -23,12 +23,38 @@ PROJECT INPUTS
 PRIMARY OBJECTIVE
 Create a complete, evidence-based showcase for this project. Focus on the presentation and the script/case study. Do not create or plan a video unless explicitly requested.
 
+SKILL AND TOOL ROUTING
+Use the following exact skills when they are relevant and available:
+- `github:github` — understand a remote GitHub repository, issues, pull requests, and repository context.
+- `browser:control-in-app-browser` — inspect a live web app in the in-app browser and capture screenshots.
+- `vercel:agent-browser` — navigate a local dev server or website, interact with the UI, and capture screenshots.
+- `vercel:agent-browser-verify` — perform a visual and browser smoke check after starting a local dev server.
+- `imagegen` — create non-product visuals such as a cover image, illustration, texture, or presentation thumbnail.
+- `visualize:visualize` — create architecture diagrams, flow diagrams, charts, plots, or other explanatory visuals.
+- `presentations:Presentations` — create or edit the `.pptx` presentation and verify its layout.
+- `documents:documents` — create or edit the `.docx` case study or supporting project document.
+
+Use these optional skills only when the project needs them:
+- `vercel:verification` — verify the complete browser-to-API-to-data flow of a deployed application.
+- `vercel:vercel-api` — inspect Vercel deployments, domains, or live project metadata.
+- `spreadsheets:Spreadsheets` — analyze project metrics, experiment results, or evaluation exports.
+- `pdf:pdf` — render and inspect an exported PDF version of the presentation or case study.
+
+Useful supporting tools:
+- `shell_command` — inspect files, run the project, execute tests, and collect local evidence.
+- `view_image` — inspect existing screenshots and visual assets before selecting them for the deck.
+- `web__run` — verify public facts or referenced sources and include citations; never use it as a substitute for repository evidence.
+- `codex_app__load_workspace_dependencies` — locate the bundled runtimes and libraries before creating slides, documents, or spreadsheets.
+
+Do not use `imagegen` to fabricate product screenshots, user results, or evidence; screenshots must come from the actual project or be clearly labeled as mockups.
+
 WORKFLOW
 1. Inspect the project before writing.
    - Identify the problem, target user, main workflow, key features, technology choices, architecture, data sources, integrations, and current project status.
    - Read the README, package/configuration files, important source files, tests, and relevant documentation.
-   - If a live demo is available, use browser tools to inspect the main user journey and capture clean screenshots of the strongest screens.
-   - If this is a GitHub repository, use repository history and issues/PRs only when they are accessible and relevant.
+   - If a live demo is available, use `browser:control-in-app-browser` for the in-app browser or `vercel:agent-browser` for a local dev server/website to inspect the main user journey and capture clean screenshots of the strongest screens.
+   - If a local dev server is started, use `vercel:agent-browser-verify` for a visual smoke check when appropriate.
+   - If this is a GitHub repository, use `github:github` and repository history/issues/PRs only when they are accessible and relevant.
 
 2. Establish evidence and limitations.
    - Separate verified facts from reasonable interpretation.
@@ -54,6 +80,8 @@ WORKFLOW
    - Recommended visual or screenshot
    - Speaker notes
    - Evidence source or file path
+
+   Use `visualize:visualize` for architecture, workflow, or results diagrams when a diagram communicates the idea more clearly than prose. Use `imagegen` only for supporting presentation artwork, not evidence.
 
 4. Write the spoken script.
    - Write a natural script that follows the slide order.
@@ -87,8 +115,11 @@ WORKFLOW
    - A short list of missing evidence, assumptions, and follow-up actions
 
    If file creation is supported and appropriate:
-   - Use the presentations skill to create a `.pptx` deck.
-   - Use the documents skill to create a `.docx` case study.
+   - Use `presentations:Presentations` to create a `.pptx` deck.
+   - Use `documents:documents` to create a `.docx` case study.
+   - If metrics or experiment exports are provided, use `spreadsheets:Spreadsheets` to inspect them before reporting results.
+   - If deployment evidence is important, use `vercel:verification` and/or `vercel:vercel-api` where applicable.
+   - If a PDF is supplied or exported, use `pdf:pdf` to render and inspect its layout.
    - Save screenshots in a clearly named project evidence folder.
    - Keep source claims traceable to repository files, tests, screenshots, or live verification.
 
