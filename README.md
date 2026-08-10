@@ -64,8 +64,6 @@ See the [portfolio](https://github.com/icecold009/shaurya-portfolio) for the wid
 </p>
 
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Let's+connect;Always+open+to+new+opportunities!;Drop+me+a+message+anytime;Find+me+across+all+platforms+below" alt="Typing SVG" /></a>
-</p>
+
 
 <p align="center"><sub>Profile refreshed in August 2026.</sub></p>
