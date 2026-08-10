@@ -6,7 +6,15 @@ I care about reproducible evaluation, honest documentation, and shipping useful 
 
 **Focus:** Machine learning · AI products · Full-stack apps · Data systems · Open source
 
-[Email](mailto:sariashaurya09@gmail.com) · [LinkedIn](https://www.linkedin.com/in/shaurya-saria009) · [Portfolio](https://github.com/icecold009/shaurya-portfolio)
+<p>
+  <a href="mailto:sariashaurya09@gmail.com"><img height="28" src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shaurya-saria009"><img height="28" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="https://shaurya-portfolio-sooty.vercel.app/"><img height="28" src="https://skillicons.dev/icons?i=vercel" alt="Portfolio website" /></a>
+  &nbsp;&nbsp;
+  <a href="https://shaurya-portfolio-sooty.vercel.app/"><strong>Visit my portfolio →</strong></a>
+</p>
 
 ## Current work
 
