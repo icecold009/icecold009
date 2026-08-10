@@ -7,11 +7,11 @@ I care about reproducible evaluation, honest documentation, and shipping useful 
 **Focus:** Machine learning · AI products · Full-stack apps · Data systems · Open source
 
 <p>
-  <a href="mailto:sariashaurya09@gmail.com"><img height="28" src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/shaurya-saria009"><img height="28" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" /></a>
-  &nbsp;&nbsp;
-  <a href="https://shaurya-portfolio-sooty.vercel.app/" title="View my portfolio"><img height="28" src="https://raw.githubusercontent.com/icecold009/shaurya-portfolio/main/public/favicon.png" alt="" /> <strong>View portfolio</strong></a>
+  <a href="mailto:sariashaurya09@gmail.com" title="Email"><img height="32" width="32" src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/shaurya-saria009" title="LinkedIn"><img height="32" width="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://shaurya-portfolio-sooty.vercel.app/" title="Portfolio website"><img height="36" width="36" src="https://raw.githubusercontent.com/icecold009/shaurya-portfolio/main/public/favicon.png" alt="Portfolio website" /></a>
 </p>
 
 ## Current work
