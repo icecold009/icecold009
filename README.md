@@ -151,38 +151,26 @@ I care about reproducible evaluation, honest documentation, and shipping useful 
   </tr>
 </table>
 
-<table width="100%">
-  <tr>
-    <td align="center" bgcolor="#F3F4F6"><strong>Skills</strong></td>
-  </tr>
-</table>
+## Skills
 
-### Programming Languages
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,c,html,css&perline=7" />
-  </a>
+  <strong>Languages</strong><br>
+  <img height="42" src="https://skillicons.dev/icons?i=python,typescript,javascript,java,c,html,css&perline=7" alt="Programming languages" />
 </p>
 
-### Frameworks and Libraries
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,react,nextjs,nodejs,pytorch,tensorflow,sklearn,opencv&perline=8" />
-  </a>
+  <strong>Frameworks and libraries</strong><br>
+  <img height="42" src="https://skillicons.dev/icons?i=flask,react,nextjs,nodejs,pytorch,tensorflow,sklearn,opencv&perline=8" alt="Frameworks and libraries" />
 </p>
 
-### Databases and Cloud
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,sqlite,vercel,prisma&perline=6" />
-  </a>
+  <strong>Data and cloud</strong><br>
+  <img height="42" src="https://skillicons.dev/icons?i=supabase,postgres,mysql,sqlite,vercel,prisma&perline=6" alt="Databases and cloud" />
 </p>
 
-### Software and Tools
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,notion&perline=6" />
-  </a>
+  <strong>Tools</strong><br>
+  <img height="42" src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,notion&perline=6" alt="Software and tools" />
 </p>
 
 <p align="center">
