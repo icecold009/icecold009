@@ -1,18 +1,24 @@
-# Shaurya Saria
+<table align="center" width="100%" border="1" cellpadding="18" cellspacing="0">
+  <tr>
+    <td align="center">
+      <h1>Shaurya Saria</h1>
 
-Student builder in Bengaluru working across machine learning, AI-assisted products, full-stack apps, audio processing, and open-source engineering.
+      <p>Student builder in Bengaluru working across machine learning, AI-assisted products, full-stack apps, audio processing, and open-source engineering.</p>
 
-I care about reproducible evaluation, honest documentation, and shipping useful software.
+      <p>I care about reproducible evaluation, honest documentation, and shipping useful software.</p>
 
-**Focus:** Machine learning · AI products · Full-stack apps · Data systems · Open source
+      <p><strong>Focus:</strong> Machine learning · AI products · Full-stack apps · Data systems · Open source</p>
 
-<p>
-  <a href="mailto:sariashaurya09@gmail.com" title="Email"><img height="32" width="32" src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/shaurya-saria009" title="LinkedIn"><img height="32" width="32" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://shaurya-portfolio-sooty.vercel.app/" title="Portfolio website"><img height="36" width="36" src="https://raw.githubusercontent.com/icecold009/shaurya-portfolio/main/public/favicon.png" alt="Portfolio website" /></a>
-</p>
+      <p>
+        <a href="mailto:sariashaurya09@gmail.com" title="Email"><img height="40" width="40" src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://www.linkedin.com/in/shaurya-saria009" title="LinkedIn"><img height="40" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" /></a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://shaurya-portfolio-sooty.vercel.app/" title="Portfolio website"><img height="40" width="40" src="https://raw.githubusercontent.com/icecold009/shaurya-portfolio/main/public/favicon.png" alt="Portfolio website" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## Current work
 
