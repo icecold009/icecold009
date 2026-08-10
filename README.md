@@ -11,9 +11,7 @@ I care about reproducible evaluation, honest documentation, and shipping useful 
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/shaurya-saria009"><img height="28" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
-  <a href="https://shaurya-portfolio-sooty.vercel.app/"><img height="28" src="https://skillicons.dev/icons?i=vercel" alt="Portfolio website" /></a>
-  &nbsp;&nbsp;
-  <a href="https://shaurya-portfolio-sooty.vercel.app/"><strong>Visit my portfolio →</strong></a>
+  <a href="https://shaurya-portfolio-sooty.vercel.app/" title="View my portfolio"><img height="28" src="https://raw.githubusercontent.com/icecold009/shaurya-portfolio/main/public/favicon.png" alt="" /> <strong>View portfolio</strong></a>
 </p>
 
 ## Current work
