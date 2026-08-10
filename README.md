@@ -1,27 +1,12 @@
-<div align="center">
+# Shaurya Saria
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=5010&pause=1000&color=38BDF8&background=1E293B&center=true&vCenter=true&width=435&lines=HI+MY+NAME+IS+SHAURYA+SARIA)](https://git.io/typing-svg)
+Student builder in Bengaluru working across machine learning, AI-assisted products, full-stack apps, audio processing, and open-source engineering.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=CCD6F6&center=true&vCenter=true&width=600&lines=Student+Builder;Machine+Learning+%7C+AI+Products;Open+Source+%7C+Full-Stack+Apps;Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
-
-<a href="mailto:sariashaurya09@gmail.com" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Gmail" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/shaurya-saria009" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="42" height="42" alt="LinkedIn" title="LinkedIn" />
-</a>
-
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0EA5E9,100:7DD3FC&height=120&section=header&text=ABOUT%20ME&fontSize=42&fontColor=FFFFFF&animation=fadeIn" alt="About Me title" />
-</p>
-
-<p align="center">
-Student builder in Bengaluru working across machine learning, AI-assisted products, audio signal processing, full-stack apps, and open source.
 I care about reproducible evaluation, honest documentation, and shipping useful software.
-</p>
+
+**Focus:** Machine learning · AI products · Full-stack apps · Data systems · Open source
+
+[Email](mailto:sariashaurya09@gmail.com) · [LinkedIn](https://www.linkedin.com/in/shaurya-saria009) · [Portfolio](https://github.com/icecold009/shaurya-portfolio)
 
 ## Current work
 
