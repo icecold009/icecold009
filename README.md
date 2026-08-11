@@ -49,12 +49,6 @@ See the [portfolio](https://github.com/icecold009/shaurya-portfolio) for the wid
 | [TIL: Today I Learned](https://github.com/icecold009/TIL-Today-I-learnt) | Running log of CS concepts, algorithms, system design, and lessons from building. | Markdown, CS theory |
 | [Open Source Practice](https://github.com/icecold009/contribute-to-open-source) | Interactive workflows for learning GitHub contributions. | Git, GitHub, pull requests |
 
-## Contribution activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/icecold009/icecold009/main/dist/github-contribution-grid-snake.svg" alt="Animated purple snake across my GitHub contribution grid" width="100%" />
-</p>
-
 ## Skills
 
 <p align="center">
