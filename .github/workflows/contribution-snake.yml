@@ -1,0 +1,41 @@
+name: Refresh contribution snake
+
+on:
+  push:
+    paths-ignore:
+      - "dist/**"
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    name: Generate purple contribution snake
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate contribution snake
+        uses: Platane/snk@v1
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - name: Apply purple snake accent
+        run: sed -i 's/--cs:[^;]*/--cs:#a855f7/g' dist/github-contribution-grid-snake.svg
+
+      - name: Commit updated animation
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist/github-contribution-grid-snake.svg
+          if git diff --cached --quiet; then
+            echo "No contribution changes."
+            exit 0
+          fi
+          git commit -m "chore: refresh contribution snake"
+          git push
