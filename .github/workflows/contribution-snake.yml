@@ -25,9 +25,6 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Apply purple snake accent
-        run: sed -i 's/--cs:[^;]*/--cs:#a855f7/g' dist/github-contribution-grid-snake.svg
-
       - name: Commit updated animation
         run: |
           git config user.name "github-actions[bot]"
