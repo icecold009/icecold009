@@ -20,22 +20,32 @@
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [IceCold Sprint](https://github.com/icecold009/lablab-hackathon-study-app) | AI-assisted study sprint planner for students preparing under time pressure. Core source workflow validated; public release synchronization remains separate. | React, Vite, Fireworks AI |
 | [Token Smart Router](https://github.com/icecold009/token-smart-router) | Routes simple prompts locally and sends complex reasoning tasks to Fireworks AI. | React, Vite, Express |
 | [Shaurya Portfolio](https://github.com/icecold009/shaurya-portfolio) | Personal portfolio and project archive for work, writing, and tools. | React, Tailwind CSS, Vercel |
+| [Boundary](https://github.com/icecold009/Sports-app) *(private)* | Mobile-first, voice-first cricket scorer with touch fallback, offline recovery, corrections, and an explicit hosted-sync boundary. | React, TypeScript, IndexedDB, Supabase |
+| [Private Dinner Booking App](https://github.com/icecold009/Booking-app) *(private)* | Mobile-friendly booking workflow for staff-configured private-dinner slots, reservations, confirmations, and cancellations. | Next.js, Prisma, PostgreSQL |
+| [School Lost and Found](https://github.com/icecold009/school-lost-and-found) *(private)* | School-only lost-property workflow with matching, review, claims, return tracking, and privacy-aware evaluation boundaries. | React, FastAPI, PostgreSQL, pgvector |
+| [AIIJC 2026 Preparation](https://github.com/icecold009/aiijc-2026-prep) *(private)* | Reproducible contest-preparation workspace with structured task layouts, solvers, submissions, and upload history. | Python, pandas, scikit-learn |
+
+## Hackathons
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| [IceCold Sprint](https://github.com/icecold009/lablab-hackathon-study-app) | AI-assisted study sprint planner for students preparing under time pressure. Core source workflow validated; public release synchronization remains separate. | React, Vite, Fireworks AI |
+| [StadiumPulse AI](https://github.com/icecold009/stadiumpulse-ai) | GenAI command center for stadium operations that turns simulated telemetry into grounded recommendations under human control. | Next.js, TypeScript, Supabase, AI workflows |
 
 ## Selected projects
 
 | Project | Description | Stack |
 | --- | --- | --- |
 | [F1 Championship Forecasting](https://github.com/icecold009/f1-championship-prediction) | Leakage-safe walk-forward evaluation of pre-season championship forecasts. | Python, pandas, scikit-learn |
-| [StadiumPulse AI](https://github.com/icecold009/stadiumpulse-ai) | Operations dashboard for simulated stadium telemetry, grounded alerts, and recommendations. | TypeScript, AI workflows, dashboards |
 | [NextSound](https://github.com/icecold009/Spotify-clone-mini-project) | Music discovery app with demo mode and optional Spotify API search. | React, TypeScript, Vite |
 | [Car Price Predictor](https://github.com/icecold009/car-price-predictor) | Regression pipeline comparing models and supporting batch and single predictions. | Python, pandas, scikit-learn |
 | [Audio Recognition](https://github.com/icecold009/Audio-Recognition) | DIY Shazam-style app using spectral analysis and audio fingerprinting. | Python, Flask, React |
 | [Movie & TV Tracker](https://github.com/icecold009/movie-tracker) | Watchlist and recommender built around TMDB, PostgreSQL, and Supabase. | Flask, PostgreSQL, Supabase |
 | [CAIE Past Paper AI](https://github.com/icecold009/past-paper-ai) | PDF parsing and Gemini-assisted analysis for recurring exam patterns. | Python, pdfplumber, Gemini, Streamlit |
 | [Face Attendance System](https://github.com/icecold009/face-attendance-opencv-python) | Local webcam face recognition and attendance workflow. | Python, OpenCV, Flask |
+| [Multiclass Imbalance Benchmark](https://github.com/icecold009/multiclass-imbalance-benchmark) *(private)* | Evidence-first benchmark of resampling strategies for multi-class imbalanced tabular classification, currently in dataset-audit stage. | Python, pandas, scikit-learn |
 
 See the [portfolio](https://github.com/icecold009/shaurya-portfolio) for the wider project archive.
 
