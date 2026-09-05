@@ -62,7 +62,7 @@ See the [portfolio](https://github.com/icecold009/shaurya-portfolio) for the wid
 ## Contribution activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/icecold009/icecold009/main/dist/github-contribution-grid-snake.svg" alt="Animated purple snake across my GitHub contribution grid" width="100%" />
+  <img src="./dist/github-contribution-activity.svg" alt="GitHub contribution activity for icecold009" width="100%" />
 </p>
 
 ## Skills
