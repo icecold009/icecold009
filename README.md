@@ -2,13 +2,15 @@
 <tr>
 <td align="center">
 <h1>Shaurya Saria</h1>
-<p>Student builder in Bengaluru working across applied AI, machine learning, full-stack products, audio systems, data workflows, and open-source engineering.</p>
+<p>Student software developer in Bengaluru building web applications, full-stack products, and data-driven AI and machine-learning projects.</p>
 <p>I like making boundaries visible: what is local, what is simulated, what has been evaluated, and what still needs proof.</p>
 <p><strong>Focus:</strong> Applied AI · Full-stack products · ML evaluation · Audio systems · Open source</p>
 <p>
 <a href="mailto:sariashaurya09@gmail.com" title="Email"><img height="40" width="40" src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/shaurya-saria009" title="LinkedIn"><img height="40" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/shaurya-saria/" title="LinkedIn"><img height="40" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.kaggle.com/shauryasaria" title="Kaggle">Kaggle</a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://shauryasaria.me/" title="Portfolio website"><img height="40" width="40" src="https://raw.githubusercontent.com/icecold009/shaurya-portfolio/main/public/favicon.png" alt="Portfolio website" /></a>
 </p>
@@ -44,7 +46,7 @@
 | --- | --- | --- |
 | [Audio Recognition](https://github.com/icecold009/Audio-Recognition) | Microphone- and file-based recognition showcase with one bounded audio pipeline, RapidAPI/Shazam, AcoustID, AudD, and a local constellation-hash backend. | Python, Flask, FFmpeg, audio fingerprinting |
 | [E-commerce Customer Analytics](https://github.com/icecold009/ecommerce-customer-analytics) | Reproducible Olist analytics pipeline with raw-table preservation, a documented cleaning layer, revenue and delivery analysis, RFM segments, and customer cohorts. | Python, SQLite, pandas, pytest |
-| [Token Smart Router](https://github.com/icecold009/token-smart-router) | AI gateway that answers simple prompts locally and sends genuinely complex requests to a configured Fireworks model, with the route visible in the UI. | React, Vite, Express, Fireworks AI |
+| [Token Smart Router](https://github.com/icecold009/token-smart-router) · [Hackathon submission](https://lablab.ai/submissions/hbq8u2w0pokj9wcxpulv72qy) | Hybrid AI routing web app that answers simple prompts locally and sends more complex requests to a configured Fireworks model, with the route visible in the UI. Benchmark scoring and execution-based accuracy checks remain future work. | React, Vite, Express, Fireworks AI |
 | [F1 Championship Forecasting](https://github.com/icecold009/f1-championship-prediction) | Leakage-safe walk-forward evaluation of pre-season championship forecasts against a previous-season baseline. | Python, pandas, scikit-learn |
 | [CAIE Past Paper AI](https://github.com/icecold009/past-paper-ai) | PDF parsing and Gemini-assisted analysis for finding recurring exam patterns and supporting targeted revision. | Python, pdfplumber, Gemini, Streamlit |
 | [Movie & TV Tracker](https://github.com/icecold009/movie-tracker) | Watchlist and recommender built around TMDB metadata, PostgreSQL, Supabase, protected mutations, and transparent recommendation logic. | Flask, PostgreSQL, Supabase, TMDB |
