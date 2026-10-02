@@ -2,9 +2,9 @@
 <tr>
 <td align="center">
 <h1>Shaurya Saria</h1>
-<p>Student software developer in Bengaluru building web applications, full-stack products, and data-driven AI and machine-learning projects.</p>
+<p>Cambridge International A-level student in Bengaluru exploring mathematics, data science, and quantitative modelling through reproducible research and software projects.</p>
 <p>I like making boundaries visible: what is local, what is simulated, what has been evaluated, and what still needs proof.</p>
-<p><strong>Focus:</strong> Applied AI · Full-stack products · ML evaluation · Audio systems · Open source</p>
+<p><strong>Focus:</strong> Mathematics · Data science · Quantitative modelling · ML evaluation · Reproducible research</p>
 <p>
 <a href="mailto:sariashaurya09@gmail.com" title="Email"><img height="40" width="40" src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -21,11 +21,13 @@
 ## Current work
 
 | Project | Description | Stack |
+| [Multiclass Imbalance Benchmark](https://github.com/icecold009/multiclass-imbalance-benchmark) | Preregistered, reproducible benchmark of resampling methods across 11 public tabular datasets and 3 classifiers, with fold-local preprocessing. Results support a conditional conclusion, not a universally best sampler; TMLR-formatted draft not submitted. | Python, pandas, scikit-learn, pytest |
+| [F1 Championship Forecasting](https://github.com/icecold009/f1-championship-prediction) | Leakage-safe walk-forward evaluation across 10 test seasons (2016-2025): previous-season order beat fitted models overall (mean RMSE 3.728 vs 5.982 for Random Forest and 6.302 for Gradient Boosting). | Python, pandas, scikit-learn |
+| [E-commerce Customer Analytics](https://github.com/icecold009/ecommerce-customer-analytics) | Reproducible Olist analytics pipeline with raw-table preservation, a documented SQLite cleaning layer, revenue reconciliation, delivery analysis, RFM segments, and customer cohorts. | Python, SQLite, pandas, pytest |
 | --- | --- | --- |
 | [Touchscreen Launchpad](https://github.com/icecold009/touchscreen-launchpad) | Local-first browser instrument with five reusable kits, an IndexedDB sample library, `.launchpack` backup/restore, recording, slicing, scenes, MIDI export, and an offline PWA shell. | JavaScript, Web Audio, IndexedDB, PWA |
 | [Shaurya Portfolio](https://github.com/icecold009/shaurya-portfolio) | Editorial portfolio and project archive with case studies, writing, certificates, artwork, contact flows, and a production launch on `shauryasaria.me`. | React, Vite, MDX, Vercel |
 | [Daymark Planner](https://github.com/icecold009/daymark-planner) | Deadline-first planner for tasks, college applications, scholarships, and freelance client work, with exportable backups and calendar files. | Next.js, TypeScript, Cloudflare Workers, D1 |
-| [Multiclass Imbalance Benchmark](https://github.com/icecold009/multiclass-imbalance-benchmark) *(private)* | Evidence-first benchmark workflow with Stage 0 Gates A–F complete, a frozen protocol, clean-checkout reproducibility, and a data-free CPU execution package. | Python, pandas, scikit-learn, pytest |
 | [AIIJC 2026 Preparation](https://github.com/icecold009/aiijc-2026-prep) *(private)* | Reproducible contest-preparation workspace with structured task layouts, solvers, submissions, and archived main-stage packages. | Python, pandas, scikit-learn |
 | [Boundary](https://github.com/icecold009/Sports-app) *(private)* | Mobile-first, voice-first cricket scorer with touch fallback, offline recovery, corrections, and an explicit hosted-sync boundary. | React, TypeScript, IndexedDB, Supabase |
 | [Private Dinner Booking App](https://github.com/icecold009/Booking-app) *(private)* | Mobile-friendly booking workflow for staff-configured private-dinner slots, reservations, confirmations, and cancellations. | Next.js, Prisma, PostgreSQL |
@@ -45,9 +47,7 @@
 | Project | Description | Stack |
 | --- | --- | --- |
 | [Audio Recognition](https://github.com/icecold009/Audio-Recognition) | Microphone- and file-based recognition showcase with one bounded audio pipeline, RapidAPI/Shazam, AcoustID, AudD, and a local constellation-hash backend. | Python, Flask, FFmpeg, audio fingerprinting |
-| [E-commerce Customer Analytics](https://github.com/icecold009/ecommerce-customer-analytics) | Reproducible Olist analytics pipeline with raw-table preservation, a documented cleaning layer, revenue and delivery analysis, RFM segments, and customer cohorts. | Python, SQLite, pandas, pytest |
 | [Token Smart Router](https://github.com/icecold009/token-smart-router) · [Hackathon submission](https://lablab.ai/submissions/hbq8u2w0pokj9wcxpulv72qy) | Hybrid AI routing web app that answers simple prompts locally and sends more complex requests to a configured Fireworks model, with the route visible in the UI. Benchmark scoring and execution-based accuracy checks remain future work. | React, Vite, Express, Fireworks AI |
-| [F1 Championship Forecasting](https://github.com/icecold009/f1-championship-prediction) | Leakage-safe walk-forward evaluation of pre-season championship forecasts against a previous-season baseline. | Python, pandas, scikit-learn |
 | [CAIE Past Paper AI](https://github.com/icecold009/past-paper-ai) | PDF parsing and Gemini-assisted analysis for finding recurring exam patterns and supporting targeted revision. | Python, pdfplumber, Gemini, Streamlit |
 | [Movie & TV Tracker](https://github.com/icecold009/movie-tracker) | Watchlist and recommender built around TMDB metadata, PostgreSQL, Supabase, protected mutations, and transparent recommendation logic. | Flask, PostgreSQL, Supabase, TMDB |
 | [NextSound](https://github.com/icecold009/Spotify-clone-mini-project) | Music discovery interface with a useful demo mode and an optional Spotify API search path. | React, TypeScript, Vite, Spotify API |
