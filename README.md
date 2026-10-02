@@ -21,10 +21,10 @@
 ## Current work
 
 | Project | Description | Stack |
+| --- | --- | --- |
 | [Multiclass Imbalance Benchmark](https://github.com/icecold009/multiclass-imbalance-benchmark) | Preregistered, reproducible benchmark of resampling methods across 11 public tabular datasets and 3 classifiers, with fold-local preprocessing. Results support a conditional conclusion, not a universally best sampler; TMLR-formatted draft not submitted. | Python, pandas, scikit-learn, pytest |
 | [F1 Championship Forecasting](https://github.com/icecold009/f1-championship-prediction) | Leakage-safe walk-forward evaluation across 10 test seasons (2016-2025): previous-season order beat fitted models overall (mean RMSE 3.728 vs 5.982 for Random Forest and 6.302 for Gradient Boosting). | Python, pandas, scikit-learn |
 | [E-commerce Customer Analytics](https://github.com/icecold009/ecommerce-customer-analytics) | Reproducible Olist analytics pipeline with raw-table preservation, a documented SQLite cleaning layer, revenue reconciliation, delivery analysis, RFM segments, and customer cohorts. | Python, SQLite, pandas, pytest |
-| --- | --- | --- |
 | [Touchscreen Launchpad](https://github.com/icecold009/touchscreen-launchpad) | Local-first browser instrument with five reusable kits, an IndexedDB sample library, `.launchpack` backup/restore, recording, slicing, scenes, MIDI export, and an offline PWA shell. | JavaScript, Web Audio, IndexedDB, PWA |
 | [Shaurya Portfolio](https://github.com/icecold009/shaurya-portfolio) | Editorial portfolio and project archive with case studies, writing, certificates, artwork, contact flows, and a production launch on `shauryasaria.me`. | React, Vite, MDX, Vercel |
 | [Daymark Planner](https://github.com/icecold009/daymark-planner) | Deadline-first planner for tasks, college applications, scholarships, and freelance client work, with exportable backups and calendar files. | Next.js, TypeScript, Cloudflare Workers, D1 |
