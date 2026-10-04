@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/shaurya-saria/" title="LinkedIn"><img height="40" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.kaggle.com/shauryasaria" title="Kaggle">Kaggle</a>
+<a href="https://www.kaggle.com/shauryasaria" title="Kaggle"><img height="40" width="40" src="./assets/kaggle.svg" alt="Kaggle" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://shauryasaria.me/" title="Portfolio website"><img height="40" width="40" src="https://raw.githubusercontent.com/icecold009/shaurya-portfolio/main/public/favicon.png" alt="Portfolio website" /></a>
 </p>
@@ -22,37 +22,39 @@
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [Touchscreen Launchpad](https://github.com/icecold009/touchscreen-launchpad) | Local-first browser instrument with five reusable kits, an IndexedDB sample library, `.launchpack` backup/restore, recording, slicing, scenes, MIDI export, and an offline PWA shell. | JavaScript, Web Audio, IndexedDB, PWA |
-| [Shaurya Portfolio](https://github.com/icecold009/shaurya-portfolio) | Editorial portfolio and project archive with case studies, writing, certificates, artwork, contact flows, and a production launch on `shauryasaria.me`. | React, Vite, MDX, Vercel |
-| [Daymark Planner](https://github.com/icecold009/daymark-planner) | Deadline-first planner for tasks, college applications, scholarships, and freelance client work, with exportable backups and calendar files. | Next.js, TypeScript, Cloudflare Workers, D1 |
-| [Multiclass Imbalance Benchmark](https://github.com/icecold009/multiclass-imbalance-benchmark) *(private)* | Evidence-first benchmark workflow with Stage 0 Gates A–F complete, a frozen protocol, clean-checkout reproducibility, and a data-free CPU execution package. | Python, pandas, scikit-learn, pytest |
-| [AIIJC 2026 Preparation](https://github.com/icecold009/aiijc-2026-prep) *(private)* | Reproducible contest-preparation workspace with structured task layouts, solvers, submissions, and archived main-stage packages. | Python, pandas, scikit-learn |
-| [Boundary](https://github.com/icecold009/Sports-app) *(private)* | Mobile-first, voice-first cricket scorer with touch fallback, offline recovery, corrections, and an explicit hosted-sync boundary. | React, TypeScript, IndexedDB, Supabase |
-| [Private Dinner Booking App](https://github.com/icecold009/Booking-app) *(private)* | Mobile-friendly booking workflow for staff-configured private-dinner slots, reservations, confirmations, and cancellations. | Next.js, Prisma, PostgreSQL |
-| [School Lost and Found](https://github.com/icecold009/school-lost-and-found) *(private)* | School-only lost-property workflow with matching, review, claims, return tracking, and privacy-aware evaluation boundaries. | React, FastAPI, PostgreSQL, pgvector |
+| [Touchscreen Launchpad](https://github.com/icecold009/touchscreen-launchpad) | Local-first browser instrument with reusable kits, sample storage, recording, slicing, scenes, MIDI export, backups, and an offline PWA shell. | JavaScript, Web Audio, IndexedDB, PWA |
+| [Shaurya Portfolio](https://github.com/icecold009/shaurya-portfolio) | Editorial portfolio with project case studies, writing, certificates, artwork, and contact flows, hosted on shauryasaria.me. | React, Vite, MDX, Vercel |
+| [Proofline](https://github.com/icecold009/proofline-ibm-bob) | Local release-readiness tool connecting claims to evidence, with a CLI, browser interface, and JSON, Markdown, or offline HTML reports. | Python, evidence manifests, HTML |
+| [PatchRipple](https://github.com/icecold009/PatchRipple) *(in progress)* | In-progress pull-request impact analysis; main contains a verification baseline, with implementation on a feature branch pending review. | GitHub Actions, Git |
+| [Daymark Planner](https://github.com/icecold009/daymark-planner) *(private)* | Deadline-first planner for tasks, college applications, scholarships, and client work, with backups and calendar exports. | Next.js, TypeScript, Cloudflare Workers, D1 |
+| [Multiclass Imbalance Benchmark](https://github.com/icecold009/multiclass-imbalance-benchmark) | Reproducible resampling benchmark for multiclass imbalanced classification, with a completed V1 workflow and local paper candidate; not yet submitted. | Python, pandas, scikit-learn, pytest |
+| [AIIJC 2026 Preparation](https://github.com/icecold009/aiijc-2026-prep) *(private)* | Reproducible contest preparation with structured tasks, solvers, submissions, and archived main-stage packages. | Python, pandas, scikit-learn |
+| [Boundary](https://github.com/icecold009/Sports-app) *(private)* | Local-first cricket scorer with voice input, touch fallback, offline recovery, corrections, and optional hosted sync awaiting verification. | React, TypeScript, IndexedDB, Supabase |
+| [INFINITEA Booking](https://github.com/icecold009/Booking-app) *(private)* | Reservation pilot with guest confirmation links, cancellations, and protected staff controls for availability and bookings. | Next.js, TypeScript, Firebase Admin, Firestore |
+| [School Lost and Found](https://github.com/icecold009/school-lost-and-found) *(private)* | School-only lost-property workflow with match review, claims, returns, and privacy-aware evaluation; production integrations remain pending. | React, FastAPI, PostgreSQL, pgvector |
 
 ## Hackathons
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [RiskCourt](https://github.com/icecold009/alpaca-ai-trading-agents-hackathon) | Paper-only options agent for the Alpaca AI Trading Agents Hackathon: independent jurors produce evidence-bound forecasts, calibration creates a bounded probability, and deterministic risk gates decide whether a defined-risk spread is eligible. | Python, FastAPI, React, Alpaca API |
-| [PolicyLens](https://github.com/icecold009/hacksocial-policylens) | Privacy-conscious AI/ML MVP for asking questions about clearly labelled synthetic school-policy documents, returning plain-English answers with evidence or an explicit needs-review state. | React, Vite, Node.js |
-| [IceCold Sprint](https://github.com/icecold009/lablab-hackathon-study-app) | Local-first study-planning MVP that turns confidence, importance, and available time into a focused sprint, then uses a five-question quiz to recommend what happens next. | React, Vite, localStorage |
-| [StadiumPulse AI](https://github.com/icecold009/stadiumpulse-ai) | GenAI command center for simulated stadium operations: telemetry becomes grounded alerts and recommendations while authenticated people remain in control of every action. | Next.js, TypeScript, Supabase, Realtime |
+| [RiskCourt](https://github.com/icecold009/alpaca-ai-trading-agents-hackathon) | Paper-only options agent with evidence-bound forecasts, calibrated probabilities, and deterministic gates for defined-risk spreads. | Python, FastAPI, React, Alpaca API |
+| [PolicyLens](https://github.com/icecold009/hacksocial-policylens) | AI/ML MVP answering questions about labelled synthetic school-policy documents, with evidence or an explicit needs-review state. | React, Vite, Node.js |
+| [IceCold Sprint](https://github.com/icecold009/lablab-hackathon-study-app) | Local-first study planner using confidence, importance, and available time, with a five-question quiz to recommend next steps. | React, Vite, localStorage |
+| [StadiumPulse AI](https://github.com/icecold009/stadiumpulse-ai) | GenAI command center for simulated stadium operations, turning telemetry into grounded alerts while people control every action. | Next.js, TypeScript, Supabase, Realtime |
 
 ## Selected projects
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [Audio Recognition](https://github.com/icecold009/Audio-Recognition) | Microphone- and file-based recognition showcase with one bounded audio pipeline, RapidAPI/Shazam, AcoustID, AudD, and a local constellation-hash backend. | Python, Flask, FFmpeg, audio fingerprinting |
-| [E-commerce Customer Analytics](https://github.com/icecold009/ecommerce-customer-analytics) | Reproducible Olist analytics pipeline with raw-table preservation, a documented cleaning layer, revenue and delivery analysis, RFM segments, and customer cohorts. | Python, SQLite, pandas, pytest |
-| [Token Smart Router](https://github.com/icecold009/token-smart-router) · [Hackathon submission](https://lablab.ai/submissions/hbq8u2w0pokj9wcxpulv72qy) | Hybrid AI routing web app that answers simple prompts locally and sends more complex requests to a configured Fireworks model, with the route visible in the UI. Benchmark scoring and execution-based accuracy checks remain future work. | React, Vite, Express, Fireworks AI |
+| [Audio Recognition](https://github.com/icecold009/Audio-Recognition) | Microphone/file recognition with a bounded audio pipeline, Shazam, AcoustID, AudD, and a local constellation-hash backend. | Python, Flask, FFmpeg, audio fingerprinting |
+| [E-commerce Customer Analytics](https://github.com/icecold009/ecommerce-customer-analytics) | Reproducible Olist analytics with documented cleaning, revenue and delivery analysis, RFM segments, and customer cohorts. | Python, SQLite, pandas, pytest |
+| [Token Smart Router](https://github.com/icecold009/token-smart-router) · [Hackathon submission](https://lablab.ai/submissions/hbq8u2w0pokj9wcxpulv72qy) | Visible local/Fireworks model routing for simple and complex prompts; benchmark scoring and execution-based accuracy checks remain future work. | React, Vite, Express, Fireworks AI |
 | [F1 Championship Forecasting](https://github.com/icecold009/f1-championship-prediction) | Leakage-safe walk-forward evaluation of pre-season championship forecasts against a previous-season baseline. | Python, pandas, scikit-learn |
-| [CAIE Past Paper AI](https://github.com/icecold009/past-paper-ai) | PDF parsing and Gemini-assisted analysis for finding recurring exam patterns and supporting targeted revision. | Python, pdfplumber, Gemini, Streamlit |
-| [Movie & TV Tracker](https://github.com/icecold009/movie-tracker) | Watchlist and recommender built around TMDB metadata, PostgreSQL, Supabase, protected mutations, and transparent recommendation logic. | Flask, PostgreSQL, Supabase, TMDB |
-| [NextSound](https://github.com/icecold009/Spotify-clone-mini-project) | Music discovery interface with a useful demo mode and an optional Spotify API search path. | React, TypeScript, Vite, Spotify API |
-| [Car Price Predictor](https://github.com/icecold009/car-price-predictor) | Regression pipeline comparing models and supporting both batch and single predictions. | Python, pandas, scikit-learn, Flask |
-| [Face Attendance System](https://github.com/icecold009/face-attendance-opencv-python) | Local webcam face-recognition and attendance workflow with enrollment, deduplication, and CSV reporting. | Python, OpenCV, Flask |
+| [CAIE Past Paper AI](https://github.com/icecold009/past-paper-ai) | PDF parsing and Gemini-assisted analysis to find recurring exam patterns and support targeted revision. | Python, pdfplumber, Gemini, Streamlit |
+| [Movie & TV Tracker](https://github.com/icecold009/movie-tracker) | TMDB watchlist and recommender with protected mutations, PostgreSQL/Supabase storage, and transparent recommendation logic. | Flask, PostgreSQL, Supabase, TMDB |
+| [NextSound](https://github.com/icecold009/Spotify-clone-mini-project) | Music discovery interface with demo mode and optional Spotify API search. | React, TypeScript, Vite, Spotify API |
+| [Car Price Predictor](https://github.com/icecold009/car-price-predictor) | Regression pipeline comparing models and supporting batch and single predictions. | Python, pandas, scikit-learn, Flask |
+| [Face Attendance System](https://github.com/icecold009/face-attendance-opencv-python) | Local webcam face recognition and attendance with enrollment, deduplication, and CSV reporting. | Python, OpenCV, Flask |
 
 See the [portfolio](https://shauryasaria.me/) for the wider archive of projects, writing, certificates, and experiments.
 
@@ -60,12 +62,16 @@ See the [portfolio](https://shauryasaria.me/) for the wider archive of projects,
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [AI Language Partner](https://github.com/duct-tape2/ai-language-partner/pull/151) | Proposed Windows portability repair for the FastAPI API, including platform-safe dependency handling and functional contract verification. | Python, FastAPI, pytest |
-| [Node.js](https://github.com/nodejs/node/pull/65999) | Draft contribution preserving the underlying filesystem errno in `fs.rmSync` errors instead of degrading unmapped failures to `UV_UNKNOWN`. | C++, Node.js internals |
-| [Code Racer](https://github.com/icecold009/code-racer) | Community multiplayer coding game for real-time programming challenges. | Next.js, TypeScript, Tailwind, Prisma |
+| [AI Language Partner](https://github.com/duct-tape2/ai-language-partner/pull/151) | Open PR making the FastAPI API portable on Windows, with platform-safe dependencies and functional contract checks. | Python, FastAPI, pytest |
+| [PaperLocale](https://github.com/hazugi2004/paperlocale/pull/37) | Merged contribution adding an ecology terminology and evaluation pack for academic PDF translation. | Python, terminology packs, evaluation |
+| [Hono](https://github.com/honojs/hono/pull/5425) | Open PR adding typed detailed response errors to the client. | TypeScript, HTTP clients |
+| [Axios](https://github.com/axios/axios/pull/11280) | Open PR adding a benchmark for nested FormData-to-JSON conversion. | JavaScript, Node.js, benchmarks |
+| [Node.js](https://github.com/nodejs/node/pull/65999) | Draft PR preserving the underlying filesystem errno in fs.rmSync errors instead of degrading failures to UV_UNKNOWN. | C++, Node.js internals |
+| [Code Racer](https://github.com/icecold009/code-racer) *(archived fork of webdevcody/code-racer)* | Archived fork of webdevcody/code-racer, a multiplayer coding game for real-time programming challenges. | Next.js, TypeScript, Tailwind, Prisma |
 | [Codeforces Grind](https://github.com/icecold009/codeforces-grind) | Ongoing algorithm and competitive-programming practice. | Algorithms, data structures |
 | [TIL: Today I Learned](https://github.com/icecold009/TIL-Today-I-learnt) | Running log of CS concepts, algorithms, system design, and lessons from building. | Markdown, CS theory |
-| [Open Source Practice](https://github.com/icecold009/contribute-to-open-source) | Interactive workflows for learning GitHub contributions, pull requests, and repository habits. | Git, GitHub, pull requests |
+| [30 Days of AI](./showcase/30-days-of-ai/case-study.md) | Learning case study covering prompting, data workflows, automation, agents, and rapid prototyping. | AI tools, workflow automation, Markdown |
+| [Open Source Practice](https://github.com/icecold009/contribute-to-open-source) | Interactive practice with GitHub contributions, pull requests, and repository workflows. | Git, GitHub, pull requests |
 
 ## Contribution activity
 
