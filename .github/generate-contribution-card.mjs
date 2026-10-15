@@ -64,8 +64,8 @@ const queryGitHub = async (username, from, to) => {
         query ContributionCalendar($login: String!, $from: DateTime!, $to: DateTime!) {
           user(login: $login) {
             contributionsCollection(from: $from, to: $to) {
-              totalContributions
               contributionCalendar {
+                totalContributions
                 weeks {
                   contributionDays {
                     date
@@ -94,7 +94,7 @@ const queryGitHub = async (username, from, to) => {
   if (!calendar) throw new Error(`GitHub user not found: ${username}`);
 
   return {
-    total: calendar.totalContributions,
+    total: calendar.contributionCalendar.totalContributions,
     days: calendar.contributionCalendar.weeks.flatMap((week) => week.contributionDays),
   };
 };
